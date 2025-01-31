@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_Ticketing_Slave_QFN.PcbDoc   31.08.2022  12:54:17
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 18112C_Ticketing-RoundHoles.TXT
+ASCII SlotHoles File : 18112C_Ticketing-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             28        PTH        190.62mm (7.50inch)
+T2      0.35mm (14mil)                                            Round             18        PTH        51.54mm (2.03inch)
+T3      0.55mm (22mil)                                            Slot              2         PTH        16.83mm (0.66inch)
+T4      0.711mm (28mil)                                           Round             25        PTH        299.20mm (11.78inch)
+T5      0.8mm (31mil)                                             Round             20        PTH        58.00mm (2.28inch)
+T6      0.85mm (33mil)                                            Slot              2         PTH        16.02mm (0.63inch)
+T7      1mm (39mil)                                               Round             8         PTH        87.92mm (3.46inch)
+T8      1.1mm (43mil)                                             Round             5         PTH        10.16mm (0.40inch)
+T9      1.2mm (47mil)                                             Round             4         PTH        22.50mm (0.89inch)
+T10     0.8mm (31mil)                                             Round             2         NPTH       5.00mm (0.20inch)
+T11     3.51mm (138mil)                                           Round             4         NPTH       131.05mm (5.16inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              118
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,39 @@
+  Revised: Tuesday, February 14, 2017
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials          March 10,2017      10:02:51	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C26	10nF
+2	3	C27,C28,C31	22pF
+3	2	C29,C30	5.6pF
+4	3	C32,C36,C38	33pF
+5	1	C33	4.7pF
+6	1	C35	3.3nF
+7	1	C37	4.7nF
+8	3	C47,C48,C54	100nF
+9	1	C49	100n
+10	2	C50,C51	1uF
+11	1	J9	CON6
+12	1	J10	XbeeL
+13	1	J11	XbeeR
+14	1	J12	HEADER 31
+15	2	L4,L6	12nH
+16	1	L5	10nH
+17	1	Q3	445C33A16M
+18	1	R8	22K
+19	1	R9	1M
+20	1	R15	470
+21	2	R16,R17	2K
+22	1	R19	10K
+23	1	U4	nRF905
+24	1	U8	24AA02UID
+25	1	U9	PIC32MX130F064

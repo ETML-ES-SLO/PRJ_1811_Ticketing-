@@ -1,0 +1,316 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : MODULE_RADIO_868M.brd                         )
+(    Software Version : 16.6-2015S058                                 )
+(    Date/Time        : Fri Feb 17 15:46:39 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < H:/PROJET MODULES DE TRANSMISSION 868MHZ/SCHÉMA/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (-1.100 -1.200)
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.78700                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.57500                                  DARK 
+  SQUARE     4.19100                    45.000 NO     DARK 
+  RECTANGLE  0.30500     x 0.81300       0.000 NO     DARK 
+  RECTANGLE  0.30500     x 0.81300      90.000 NO     DARK 
+  RECTANGLE  0.35600     x 1.01600      45.000 NO     DARK 
+  RECTANGLE  0.35600     x 1.01600     135.000 NO     DARK 
+  RECTANGLE  0.63500     x 1.27000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  1.80000     x 2.30000       0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < H:/PROJET MODULES DE TRANSMISSION 868MHZ/SCHÉMA/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.57500                                  DARK 
+  RECTANGLE  0.71100     x 2.08300       0.000 NO     DARK 
+  RECTANGLE  1.29500     x 3.40400       0.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SolderMaskTop >
+     TO FILE < H:/PROJET MODULES DE TRANSMISSION 868MHZ/SCHÉMA/allegro/SolderMaskTop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.93700                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.70200                                  DARK 
+  SQUARE     4.19100                    45.000 NO     DARK 
+  RECTANGLE  0.30500     x 0.81300       0.000 NO     DARK 
+  RECTANGLE  0.30500     x 0.81300      90.000 NO     DARK 
+  RECTANGLE  0.35600     x 1.01600      45.000 NO     DARK 
+  RECTANGLE  0.35600     x 1.01600     135.000 NO     DARK 
+  RECTANGLE  0.76200     x 1.39700       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  1.90000     x 2.40000       0.000 NO     DARK 
+
+     SolderMaskTop created.
+
+
+================================================================
+     PROCESSING FILM < SolderMaskBottom >
+     TO FILE < H:/PROJET MODULES DE TRANSMISSION 868MHZ/SCHÉMA/allegro/SolderMaskBottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.70200                                  DARK 
+  RECTANGLE  0.71100     x 2.08300       0.000 NO     DARK 
+  RECTANGLE  1.29500     x 3.40400       0.000 NO     DARK 
+  RECTANGLE  1.90000     x 2.40000       0.000 NO     DARK 
+
+     SolderMaskBottom created.
+
+
+================================================================
+     PROCESSING FILM < SilkScreenTop >
+     TO FILE < H:/PROJET MODULES DE TRANSMISSION 868MHZ/SCHÉMA/allegro/SilkScreenTop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (10.179 18.878)
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15200                                  DARK 
+  CIRCLE     0.17000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+
+     SilkScreenTop created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkScreenBottom >
+     TO FILE < H:/PROJET MODULES DE TRANSMISSION 868MHZ/SCHÉMA/allegro/SilkScreenBottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15200                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+
+     SilkScreenBottom created.
+
+
+================================================================
+     PROCESSING FILM < VCC >
+     TO FILE < H:/PROJET MODULES DE TRANSMISSION 868MHZ/SCHÉMA/allegro/VCC.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.57500                                  DARK 
+
+     VCC created.
+
+
+================================================================
+     PROCESSING FILM < NONAME_1 >
+     TO FILE < H:/PROJET MODULES DE TRANSMISSION 868MHZ/SCHÉMA/allegro/NONAME_1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.57500                                  DARK 
+
+     NONAME_1 created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created with warnings
+        SolderMaskTop created.
+        SolderMaskBottom created.
+        SilkScreenTop created with warnings
+        SilkScreenBottom created.
+        VCC created.
+        NONAME_1 created.
+
+ ARTWORK had warnings

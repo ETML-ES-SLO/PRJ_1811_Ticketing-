@@ -1,0 +1,2059 @@
+\t (00:00:01) allegro 16.6-2015 S058 (v16-6-112EP) Windows 32
+\t (00:00:01)     Journal start - Fri Apr 07 10:18:29 2017
+\t (00:00:01)         Host=ES-SLO2-M310 User=simonetyo Pid=9324 CPUs=8
+\t (00:00:01) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe H:\projet Modules de transmission 868MHz\schéma\allegro\MODULE_RADIO_868M.brd
+\t (00:00:01) 
+\t (00:00:02) Opening existing design...
+\w (00:00:02) WARNING(SPMHDB-212): This design has functionality disabled due to the current product plus options selected. The following features are disabled: Via Z.  [help]
+\i (00:00:04) fillin confirm
+\d (00:00:04) Design opened: H:/projet Modules de transmission 868MHz/schéma/allegro/MODULE_RADIO_868M.brd
+\t (00:00:04) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:00:04) trapsize 1280
+\i (00:00:04) trapsize 1243
+\i (00:00:04) trapsize 1286
+\i (00:00:04) trapsize 1326
+\t (00:00:04) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:00:04) trapsize 1326
+\i (00:00:04) trapsize 1346
+\i (00:00:05) trapsize 1326
+\i (00:00:06) generaledit 
+\i (00:00:08) xhilite 
+\i (00:00:08) xNet Sck 
+\i (00:00:08) xname_flush 
+\i (00:00:08) trapsize 96
+\w (00:00:08) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Sck" highlighted.
+\i (00:00:08) done 
+\i (00:00:08) generaledit 
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 9.782 10.097
+\t (00:00:12) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:00:12) trapsize 192
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 4.636 10.672
+\i (00:00:13) trapsize 96
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 4.636 10.673
+\i (00:00:13) trapsize 48
+\i (00:00:19) xdehilite 
+\i (00:00:19) xNet Sck 
+\i (00:00:19) xname_flush 
+\t (00:00:19) Net "Sck" dehighlighted.
+\i (00:00:19) done 
+\i (00:00:19) xhilite 
+\i (00:00:19) xNet Mosi 
+\i (00:00:19) xname_flush 
+\i (00:00:19) trapsize 87
+\w (00:00:19) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Mosi" highlighted.
+\i (00:00:19) done 
+\i (00:00:19) generaledit 
+\i (00:00:20) xdehilite 
+\i (00:00:20) xNet Mosi 
+\i (00:00:20) xname_flush 
+\t (00:00:20) Net "Mosi" dehighlighted.
+\i (00:00:20) done 
+\i (00:00:20) generaledit 
+\i (00:00:24) xhilite 
+\i (00:00:24) xNet Sck 
+\i (00:00:24) xname_flush 
+\i (00:00:24) trapsize 96
+\w (00:00:24) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Sck" highlighted.
+\i (00:00:24) done 
+\i (00:00:24) generaledit 
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 12.893 6.640
+\i (00:00:29) trapsize 192
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 12.893 6.640
+\t (00:00:29) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:00:29) trapsize 384
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 19.268 10.634
+\t (00:00:30) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:00:30) trapsize 192
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 19.614 9.828
+\i (00:00:30) trapsize 96
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 20.152 9.502
+\i (00:00:31) trapsize 48
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 20.210 9.435
+\i (00:00:31) trapsize 24
+\i (00:52:23) zoom out 1 
+\i (00:52:23) setwindow pcb
+\i (00:52:23) zoom out 19.697 9.219
+\i (00:52:23) trapsize 48
+\i (00:52:23) zoom out 1 
+\i (00:52:23) setwindow pcb
+\i (00:52:23) zoom out 19.698 9.219
+\i (00:52:23) trapsize 96
+\i (00:52:23) zoom out 1 
+\i (00:52:23) setwindow pcb
+\i (00:52:23) zoom out 19.697 9.220
+\i (00:52:23) trapsize 192
+\i (00:52:23) zoom out 1 
+\i (00:52:23) setwindow pcb
+\i (00:52:23) zoom out 19.698 9.220
+\t (00:52:23) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:52:23) trapsize 384
+\i (00:52:24) zoom in 1 
+\i (00:52:24) setwindow pcb
+\i (00:52:24) zoom in 1.332 8.067
+\t (00:52:24) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:52:24) trapsize 192
+\i (00:52:24) zoom in 1 
+\i (00:52:24) setwindow pcb
+\i (00:52:24) zoom in 1.333 8.068
+\i (00:52:24) trapsize 96
+\i (00:52:24) zoom in 1 
+\i (00:52:24) setwindow pcb
+\i (00:52:24) zoom in 1.333 8.068
+\i (00:52:24) trapsize 48
+\i (00:52:24) zoom in 1 
+\i (00:52:25) setwindow pcb
+\i (00:52:25) zoom in 1.362 8.049
+\i (00:52:25) trapsize 24
+\i (00:52:25) zoom in 1 
+\i (00:52:25) setwindow pcb
+\i (00:52:25) zoom in 1.448 7.973
+\i (00:52:25) trapsize 12
+\i (00:52:25) zoom out 1 
+\i (00:52:25) setwindow pcb
+\i (00:52:25) zoom out 1.448 7.973
+\i (00:52:25) trapsize 24
+\i (00:52:27) zoom out 1 
+\i (00:52:27) setwindow pcb
+\i (00:52:27) zoom out 2.159 7.766
+\i (00:52:27) trapsize 48
+\i (00:52:29) zoom out 1 
+\i (00:52:29) setwindow pcb
+\i (00:52:29) zoom out 2.581 7.046
+\i (00:52:29) trapsize 96
+\i (00:52:30) zoom in 1 
+\i (00:52:30) setwindow pcb
+\i (00:52:30) zoom in 5.427 6.413
+\i (00:52:30) trapsize 48
+\i (00:52:30) zoom in 1 
+\i (00:52:30) setwindow pcb
+\i (00:52:30) zoom in 5.426 6.413
+\i (00:52:30) trapsize 24
+\i (00:52:31) zoom out 1 
+\i (00:52:31) setwindow pcb
+\i (00:52:31) zoom out 5.426 6.414
+\i (00:52:31) trapsize 48
+\i (00:52:31) zoom out 1 
+\i (00:52:31) setwindow pcb
+\i (00:52:31) zoom out 5.426 6.413
+\i (00:52:31) trapsize 96
+\i (00:52:32) zoom in 1 
+\i (00:52:32) setwindow pcb
+\i (00:52:32) zoom in 5.831 6.952
+\i (00:52:32) trapsize 48
+\i (00:52:36) zoom out 1 
+\i (00:52:36) setwindow pcb
+\i (00:52:36) zoom out 5.822 6.952
+\i (00:52:36) trapsize 96
+\i (00:52:37) zoom in 1 
+\i (00:52:37) setwindow pcb
+\i (00:52:37) zoom in 1.152 12.987
+\i (00:52:37) trapsize 48
+\i (00:52:38) zoom in 1 
+\i (00:52:38) setwindow pcb
+\i (00:52:38) zoom in 1.152 12.987
+\i (00:52:38) trapsize 24
+\i (00:52:41) zoom out 1 
+\i (00:52:41) setwindow pcb
+\i (00:52:41) zoom out 2.122 12.526
+\i (00:52:41) trapsize 48
+\i (00:52:42) zoom out 1 
+\i (00:52:42) setwindow pcb
+\i (00:52:42) zoom out 1.950 12.171
+\i (00:52:42) trapsize 96
+\i (00:53:09) zoom out 1 
+\i (00:53:09) setwindow pcb
+\i (00:53:09) zoom out 1.181 13.171
+\i (00:53:09) trapsize 192
+\i (00:53:09) zoom out 1 
+\i (00:53:09) setwindow pcb
+\i (00:53:09) zoom out 1.182 13.172
+\t (00:53:09) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:53:09) trapsize 384
+\i (00:53:09) zoom out 1 
+\i (00:53:09) setwindow pcb
+\i (00:53:09) zoom out 1.182 13.171
+\t (00:53:09) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:53:09) trapsize 769
+\i (00:53:10) zoom in 1 
+\i (00:53:10) setwindow pcb
+\i (00:53:10) zoom in 15.326 5.485
+\t (00:53:10) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:53:10) trapsize 384
+\i (00:53:10) zoom in 1 
+\i (00:53:10) setwindow pcb
+\i (00:53:10) zoom in 15.710 5.485
+\t (00:53:10) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:53:10) trapsize 192
+\i (00:53:11) zoom in 1 
+\i (00:53:11) setwindow pcb
+\i (00:53:11) zoom in 21.244 10.212
+\i (00:53:11) trapsize 96
+\i (00:53:11) zoom in 1 
+\i (00:53:11) setwindow pcb
+\i (00:53:11) zoom in 21.206 9.943
+\i (00:53:11) trapsize 48
+\i (00:53:14) zoom in 1 
+\i (00:53:14) setwindow pcb
+\i (00:53:14) zoom in 19.755 9.376
+\i (00:53:14) trapsize 24
+\i (02:35:46) zoom out 1 
+\i (02:35:46) setwindow pcb
+\i (02:35:46) zoom out 19.280 8.848
+\i (02:35:46) trapsize 48
+\i (02:35:47) zoom out 1 
+\i (02:35:47) setwindow pcb
+\i (02:35:47) zoom out 19.280 8.848
+\i (02:35:47) trapsize 96
+\i (02:35:48) zoom out 1 
+\i (02:35:48) setwindow pcb
+\i (02:35:48) zoom out 19.280 8.848
+\i (02:35:48) trapsize 192
+\i (02:35:48) zoom out 1 
+\i (02:35:48) setwindow pcb
+\i (02:35:48) zoom out 19.280 8.849
+\t (02:35:48) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (02:35:48) trapsize 384
+\i (02:35:48) zoom out 1 
+\i (02:35:48) setwindow pcb
+\i (02:35:48) zoom out 19.280 8.849
+\t (02:35:48) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (02:35:48) trapsize 769
+\i (02:35:49) zoom in 1 
+\i (02:35:49) setwindow pcb
+\i (02:35:49) zoom in -3.164 10.407
+\t (02:35:49) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (02:35:49) trapsize 384
+\i (02:35:49) zoom in 1 
+\i (02:35:49) setwindow pcb
+\i (02:35:49) zoom in 5.983 8.255
+\t (02:35:49) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (02:35:49) trapsize 192
+\i (02:35:50) zoom in 1 
+\i (02:35:50) setwindow pcb
+\i (02:35:50) zoom in 4.638 8.716
+\i (02:35:50) trapsize 96
+\i (02:35:52) zoom in 1 
+\i (02:35:52) setwindow pcb
+\i (02:35:52) zoom in 4.812 11.292
+\i (02:35:52) trapsize 48
+\i (02:35:55) zoom out 1 
+\i (02:35:55) setwindow pcb
+\i (02:35:55) zoom out 4.812 11.292
+\i (02:35:55) trapsize 96
+\i (02:35:55) zoom out 1 
+\i (02:35:55) setwindow pcb
+\i (02:35:55) zoom out 4.812 11.292
+\i (02:35:55) trapsize 192
+\i (02:35:57) zoom out 1 
+\i (02:35:57) setwindow pcb
+\i (02:35:57) zoom out 13.536 7.679
+\t (02:35:57) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (02:35:57) trapsize 384
+\i (02:35:59) zoom in 1 
+\i (02:35:59) setwindow pcb
+\i (02:35:59) zoom in 15.149 9.216
+\t (02:35:59) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (02:35:59) trapsize 192
+\i (02:35:59) zoom in 1 
+\i (02:35:59) setwindow pcb
+\i (02:35:59) zoom in 21.338 9.332
+\i (02:35:59) trapsize 96
+\i (02:36:00) zoom in 1 
+\i (02:36:00) setwindow pcb
+\i (02:36:00) zoom in 21.338 9.332
+\i (02:36:00) trapsize 48
+\i (02:36:02) zoom out 1 
+\i (02:36:02) setwindow pcb
+\i (02:36:02) zoom out 19.590 9.073
+\i (02:36:02) trapsize 96
+\i (02:36:16) etchedit 
+\t (02:36:16) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (02:36:27) xdehilite 
+\i (02:36:27) xNet Sck 
+\i (02:36:27) xname_flush 
+\t (02:36:27) Net "Sck" dehighlighted.
+\i (02:36:27) done 
+\i (02:36:27) etchedit 
+\i (02:36:28) xhilite 
+\i (02:36:28) xNet Mosi 
+\i (02:36:28) xname_flush 
+\i (02:36:28) trapsize 87
+\w (02:36:28) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Mosi" highlighted.
+\i (02:36:28) done 
+\i (02:36:28) etchedit 
+\i (02:36:30) xdehilite 
+\i (02:36:30) xNet Mosi 
+\i (02:36:30) xname_flush 
+\t (02:36:30) Net "Mosi" dehighlighted.
+\i (02:36:30) done 
+\i (02:36:31) etchedit 
+\i (02:36:31) xhilite 
+\i (02:36:31) xNet Sck 
+\i (02:36:31) xname_flush 
+\i (02:36:31) trapsize 96
+\w (02:36:31) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Sck" highlighted.
+\i (02:36:31) done 
+\i (02:36:31) etchedit 
+\i (02:36:32) xdehilite 
+\i (02:36:32) xNet Sck 
+\i (02:36:32) xname_flush 
+\t (02:36:32) Net "Sck" dehighlighted.
+\i (02:36:32) done 
+\i (02:36:32) etchedit 
+\i (02:36:36) xhilite 
+\i (02:36:36) xNet Mosi 
+\i (02:36:36) xname_flush 
+\i (02:36:36) trapsize 87
+\w (02:36:36) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Mosi" highlighted.
+\i (02:36:36) done 
+\i (02:36:36) etchedit 
+\i (02:36:40) xdehilite 
+\i (02:36:40) xNet Mosi 
+\i (02:36:40) xname_flush 
+\t (02:36:40) Net "Mosi" dehighlighted.
+\i (02:36:40) done 
+\i (02:36:40) xhilite 
+\i (02:36:40) xNet Sck 
+\i (02:36:40) xname_flush 
+\i (02:36:40) trapsize 96
+\w (02:36:40) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Sck" highlighted.
+\i (02:36:40) done 
+\i (02:36:40) etchedit 
+\i (02:36:41) trapsize 97
+\i (02:36:42) trapsize 96
+\i (02:36:44) zoom out 1 
+\i (02:36:44) setwindow pcb
+\i (02:36:44) zoom out 12.355 6.928
+\t (02:36:44) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (02:36:44) trapsize 192
+\i (02:36:45) zoom in 1 
+\i (02:36:45) setwindow pcb
+\i (02:36:45) zoom in -3.814 11.460
+\t (02:36:45) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (02:36:45) trapsize 96
+\i (02:36:45) zoom in 1 
+\i (02:36:45) setwindow pcb
+\i (02:36:45) zoom in -3.813 11.460
+\i (02:36:45) trapsize 48
+\i (02:36:46) zoom in 1 
+\i (02:36:46) setwindow pcb
+\i (02:36:46) zoom in 2.150 12.757
+\i (02:36:46) trapsize 24
+\i (02:36:46) zoom out 1 
+\i (02:36:46) setwindow pcb
+\i (02:36:46) zoom out 2.150 12.757
+\i (02:36:46) trapsize 48
+\i (02:36:47) zoom out 1 
+\i (02:36:47) setwindow pcb
+\i (02:36:47) zoom out 2.150 12.757
+\i (02:36:47) trapsize 96
+\i (02:36:47) zoom in 1 
+\i (02:36:47) setwindow pcb
+\i (02:36:47) zoom in 2.841 8.513
+\i (02:36:47) trapsize 48
+\i (02:36:48) zoom in 1 
+\i (02:36:48) setwindow pcb
+\i (02:36:48) zoom in 2.842 8.513
+\i (02:36:48) trapsize 24
+\i (02:36:49) zoom out 1 
+\i (02:36:49) setwindow pcb
+\i (02:36:49) zoom out 2.842 8.513
+\i (02:36:49) trapsize 48
+\i (02:36:51) zoom out 1 
+\i (02:36:51) setwindow pcb
+\i (02:36:51) zoom out 2.938 8.897
+\i (02:36:51) trapsize 96
+\i (02:36:51) zoom out 1 
+\i (02:36:51) setwindow pcb
+\i (02:36:51) zoom out 2.937 8.897
+\t (02:36:51) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (02:36:51) trapsize 192
+\i (02:36:52) zoom in 1 
+\i (02:36:52) setwindow pcb
+\i (02:36:52) zoom in 7.546 8.858
+\t (02:36:52) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (02:36:52) trapsize 96
+\i (02:36:53) zoom out 1 
+\i (02:36:53) setwindow pcb
+\i (02:36:53) zoom out 7.547 8.858
+\t (02:36:53) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (02:36:53) trapsize 192
+\i (02:36:54) zoom out 1 
+\i (02:36:54) setwindow pcb
+\i (02:36:54) zoom out 7.546 8.859
+\t (02:36:54) Grids are drawn 0.600, 0.600 apart for enhanced viewability.
+\i (02:36:54) trapsize 384
+\i (02:36:55) zoom out 1 
+\i (02:36:55) setwindow pcb
+\i (02:36:55) zoom out 7.547 8.859
+\t (02:36:55) Grids are drawn 1.200, 1.200 apart for enhanced viewability.
+\i (02:36:55) trapsize 768
+\i (02:36:56) zoom in 1 
+\i (02:36:56) setwindow pcb
+\i (02:36:56) zoom in 20.319 10.548
+\t (02:36:56) Grids are drawn 0.600, 0.600 apart for enhanced viewability.
+\i (02:36:56) trapsize 384
+\i (02:36:56) zoom in 1 
+\i (02:36:56) setwindow pcb
+\i (02:36:56) zoom in 20.320 10.549
+\t (02:36:56) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (02:36:56) trapsize 192
+\i (02:36:57) zoom in 1 
+\i (02:36:57) setwindow pcb
+\i (02:36:57) zoom in 18.860 9.244
+\t (02:36:57) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (02:36:57) trapsize 96
+\i (02:37:13) zoom out 1 
+\i (02:37:13) setwindow pcb
+\i (02:37:13) zoom out 9.931 8.360
+\t (02:37:13) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (02:37:13) trapsize 192
+\i (02:51:52) xhilite 
+\i (02:51:52) xNet Miso 
+\i (02:51:52) xname_flush 
+\t (02:51:52) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (02:51:52) trapsize 107
+\w (02:51:52) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Miso" highlighted.
+\i (02:51:52) done 
+\i (02:51:52) etchedit 
+\i (02:51:54) xdehilite 
+\i (02:51:54) xNet Miso 
+\i (02:51:54) xname_flush 
+\t (02:51:54) Net "Miso" dehighlighted.
+\i (02:51:54) done 
+\i (02:51:54) xhilite 
+\i (02:51:54) xNet Mosi 
+\i (02:51:54) xname_flush 
+\i (02:51:54) trapsize 87
+\w (02:51:54) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Mosi" highlighted.
+\i (02:51:54) done 
+\i (02:51:54) etchedit 
+\i (02:51:58) xdehilite 
+\i (02:51:58) xNet Mosi 
+\i (02:51:58) xname_flush 
+\t (02:51:58) Net "Mosi" dehighlighted.
+\i (02:51:58) done 
+\i (02:51:58) xhilite 
+\i (02:51:58) xNet Sck 
+\i (02:51:58) xname_flush 
+\i (02:51:58) trapsize 96
+\w (02:51:58) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Sck" highlighted.
+\i (02:51:58) done 
+\i (02:51:58) etchedit 
+\i (02:51:58) xdehilite 
+\i (02:51:58) xNet Sck 
+\i (02:51:58) xname_flush 
+\t (02:51:58) Net "Sck" dehighlighted.
+\i (02:51:58) done 
+\i (02:51:58) xhilite 
+\i (02:51:58) xNet Mosi 
+\i (02:51:58) xname_flush 
+\i (02:51:58) trapsize 87
+\w (02:51:58) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Mosi" highlighted.
+\i (02:51:58) done 
+\i (02:51:59) etchedit 
+\i (02:51:59) xdehilite 
+\i (02:51:59) xNet Mosi 
+\i (02:51:59) xname_flush 
+\t (02:51:59) Net "Mosi" dehighlighted.
+\i (02:51:59) done 
+\i (02:51:59) etchedit 
+\i (02:52:01) xhilite 
+\i (02:52:01) xNet Sck 
+\i (02:52:01) xname_flush 
+\i (02:52:01) trapsize 96
+\w (02:52:01) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Sck" highlighted.
+\i (02:52:01) done 
+\i (02:52:01) etchedit 
+\i (02:52:02) xdehilite 
+\i (02:52:02) xNet Sck 
+\i (02:52:02) xname_flush 
+\t (02:52:02) Net "Sck" dehighlighted.
+\i (02:52:02) done 
+\i (02:52:02) xhilite 
+\i (02:52:02) xNet Mosi 
+\i (02:52:02) xname_flush 
+\i (02:52:02) trapsize 87
+\w (02:52:02) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Mosi" highlighted.
+\i (02:52:02) done 
+\i (02:52:02) etchedit 
+\i (02:52:03) xdehilite 
+\i (02:52:03) xNet Mosi 
+\i (02:52:03) xname_flush 
+\t (02:52:03) Net "Mosi" dehighlighted.
+\i (02:52:03) done 
+\i (02:52:03) xhilite 
+\i (02:52:03) xNet Sck 
+\i (02:52:03) xname_flush 
+\i (02:52:03) trapsize 96
+\w (02:52:03) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Sck" highlighted.
+\i (02:52:03) done 
+\i (02:52:03) etchedit 
+\i (02:52:03) xdehilite 
+\i (02:52:03) xNet Sck 
+\i (02:52:03) xname_flush 
+\t (02:52:03) Net "Sck" dehighlighted.
+\i (02:52:03) done 
+\i (02:52:03) etchedit 
+\i (02:52:05) xhilite 
+\i (02:52:05) xNet Mosi 
+\i (02:52:05) xname_flush 
+\i (02:52:05) trapsize 87
+\w (02:52:05) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Mosi" highlighted.
+\i (02:52:05) done 
+\i (02:52:05) etchedit 
+\i (02:52:06) xdehilite 
+\i (02:52:06) xNet Mosi 
+\i (02:52:06) xname_flush 
+\t (02:52:06) Net "Mosi" dehighlighted.
+\i (02:52:06) done 
+\i (02:52:06) xhilite 
+\i (02:52:06) xNet Sck 
+\i (02:52:06) xname_flush 
+\i (02:52:06) trapsize 96
+\w (02:52:06) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Sck" highlighted.
+\i (02:52:06) done 
+\i (02:52:06) etchedit 
+\i (02:52:08) xdehilite 
+\i (02:52:08) xNet Sck 
+\i (02:52:08) xname_flush 
+\t (02:52:08) Net "Sck" dehighlighted.
+\i (02:52:08) done 
+\i (02:52:08) xhilite 
+\i (02:52:08) xNet Mosi 
+\i (02:52:08) xname_flush 
+\i (02:52:08) trapsize 87
+\w (02:52:08) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Mosi" highlighted.
+\i (02:52:08) done 
+\i (02:52:08) etchedit 
+\i (02:52:15) pick grid 7.270 8.473
+\t (02:52:15) last pick:  7.275 8.475
+\i (02:52:15) slide 
+\t (02:52:15) Waiting for the destination pick.
+\i (02:52:16) pick grid 7.270 8.473
+\t (02:52:16) last pick:  7.275 8.475
+\t (02:52:16) No DRC errors detected.
+\i (02:52:16) etchedit 
+\i (02:52:17) zoom out 1 
+\i (02:52:17) setwindow pcb
+\i (02:52:17) zoom out 10.628 8.473
+\i (02:52:17) trapsize 175
+\i (02:52:18) zoom in 1 
+\i (02:52:18) setwindow pcb
+\i (02:52:18) zoom in 1.638 9.697
+\i (02:52:18) trapsize 87
+\i (02:52:23) etchedit 
+\i (02:52:27) zoom in 1 
+\i (02:52:27) setwindow pcb
+\i (02:52:27) zoom in 2.460 10.309
+\i (02:52:27) trapsize 44
+\i (02:52:33) zoom out 1 
+\i (02:52:33) setwindow pcb
+\i (02:52:33) zoom out 2.461 10.309
+\i (02:52:33) trapsize 87
+\i (02:52:36) zoom in 1 
+\i (02:52:36) setwindow pcb
+\i (02:52:36) zoom in 5.101 6.566
+\i (02:52:36) trapsize 44
+\i (02:52:36) zoom in 1 
+\i (02:52:36) setwindow pcb
+\i (02:52:36) zoom in 5.101 6.567
+\i (02:52:36) trapsize 22
+\i (02:52:45) zoom out 1 
+\i (02:52:45) setwindow pcb
+\i (02:52:45) zoom out 5.289 6.388
+\i (02:52:45) trapsize 44
+\i (02:53:46) zoom out 1 
+\i (02:53:47) setwindow pcb
+\i (02:53:47) zoom out 4.921 7.797
+\i (02:53:47) trapsize 87
+\i (02:53:48) zoom in 1 
+\i (02:53:48) setwindow pcb
+\i (02:53:48) zoom in 3.260 8.532
+\i (02:53:48) trapsize 44
+\i (02:53:48) zoom in 1 
+\i (02:53:48) setwindow pcb
+\i (02:53:48) zoom in 3.584 7.535
+\i (02:53:48) trapsize 22
+\i (02:53:52) zoom out 1 
+\i (02:53:52) setwindow pcb
+\i (02:53:52) zoom out 4.560 7.273
+\i (02:53:52) trapsize 44
+\i (02:53:53) zoom out 1 
+\i (02:53:53) setwindow pcb
+\i (02:53:53) zoom out 4.560 7.273
+\i (02:53:53) trapsize 87
+\i (02:54:02) zoom out 1 
+\i (02:54:02) setwindow pcb
+\i (02:54:02) zoom out 6.677 7.501
+\i (02:54:02) trapsize 175
+\i (02:54:03) zoom out 1 
+\i (02:54:03) setwindow pcb
+\i (02:54:03) zoom out 6.677 7.501
+\t (02:54:03) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (02:54:03) trapsize 350
+\i (02:54:03) zoom in 1 
+\i (02:54:03) setwindow pcb
+\i (02:54:03) zoom in 12.205 7.921
+\t (02:54:03) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (02:54:03) trapsize 175
+\i (02:54:04) zoom in 1 
+\i (02:54:04) setwindow pcb
+\i (02:54:04) zoom in 15.109 8.481
+\i (02:54:04) trapsize 87
+\i (02:54:04) zoom in 1 
+\i (02:54:04) setwindow pcb
+\i (02:54:04) zoom in 15.127 8.481
+\i (02:54:04) trapsize 44
+\i (02:54:05) zoom out 1 
+\i (02:54:05) setwindow pcb
+\i (02:54:05) zoom out 15.127 8.481
+\i (02:54:05) trapsize 87
+\i (02:54:05) zoom out 1 
+\i (02:54:05) setwindow pcb
+\i (02:54:05) zoom out 15.128 8.482
+\i (02:54:05) trapsize 175
+\i (02:54:05) zoom out 1 
+\i (02:54:05) setwindow pcb
+\i (02:54:05) zoom out 15.127 8.482
+\t (02:54:05) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (02:54:05) trapsize 350
+\i (02:54:06) zoom in 1 
+\i (02:54:06) setwindow pcb
+\i (02:54:06) zoom in 20.865 6.803
+\t (02:54:06) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (02:54:06) trapsize 175
+\i (02:54:06) zoom in 1 
+\i (02:54:06) setwindow pcb
+\i (02:54:06) zoom in 20.865 6.803
+\i (02:54:06) trapsize 87
+\i (02:54:07) zoom in 1 
+\i (02:54:07) setwindow pcb
+\i (02:54:07) zoom in 19.728 8.763
+\i (02:54:07) trapsize 44
+\i (02:54:12) zoom out 1 
+\i (02:54:12) setwindow pcb
+\i (02:54:12) zoom out 19.509 9.778
+\i (02:54:12) trapsize 87
+\i (02:54:14) zoom out 1 
+\i (02:54:14) setwindow pcb
+\i (02:54:14) zoom out 19.492 9.848
+\i (02:54:14) trapsize 175
+\i (02:54:14) zoom out 1 
+\i (02:54:14) setwindow pcb
+\i (02:54:14) zoom out 19.492 9.848
+\t (02:54:14) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (02:54:14) trapsize 350
+\i (02:54:16) zoom in 1 
+\i (02:54:16) setwindow pcb
+\i (02:54:16) zoom in 19.492 9.848
+\t (02:54:16) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (02:54:16) trapsize 175
+\i (02:54:18) zoom in 1 
+\i (02:54:18) setwindow pcb
+\i (02:54:18) zoom in 19.667 9.498
+\i (02:54:18) trapsize 87
+\i (02:54:23) zoom out 1 
+\i (02:54:23) setwindow pcb
+\i (02:54:23) zoom out 19.440 9.813
+\i (02:54:23) trapsize 175
+\i (02:54:24) zoom in 1 
+\i (02:54:24) setwindow pcb
+\i (02:54:24) zoom in 19.615 9.253
+\i (02:54:24) trapsize 87
+\i (02:54:24) zoom in 1 
+\i (02:54:24) setwindow pcb
+\i (02:54:24) zoom in 19.616 9.253
+\i (02:54:24) trapsize 44
+\i (02:54:24) zoom in 1 
+\i (02:54:24) setwindow pcb
+\i (02:54:24) zoom in 19.616 9.253
+\i (02:54:24) trapsize 22
+\i (02:54:27) zoom out 1 
+\i (02:54:27) setwindow pcb
+\i (02:54:27) zoom out 19.529 9.800
+\i (02:54:27) trapsize 44
+\i (02:54:28) zoom in 1 
+\i (02:54:28) setwindow pcb
+\i (02:54:28) zoom in 19.529 9.799
+\i (02:54:28) trapsize 22
+\i (02:54:28) zoom out 1 
+\i (02:54:28) setwindow pcb
+\i (02:54:28) zoom out 19.529 9.800
+\i (02:54:28) trapsize 44
+\i (02:54:28) zoom out 1 
+\i (02:54:28) setwindow pcb
+\i (02:54:28) zoom out 19.529 9.799
+\i (02:54:28) trapsize 87
+\i (02:54:36) zoom out 1 
+\i (02:54:36) setwindow pcb
+\i (02:54:36) zoom out 19.512 9.852
+\i (02:54:36) trapsize 175
+\i (02:54:39) zoom in 1 
+\i (02:54:39) setwindow pcb
+\i (02:54:39) zoom in 19.582 9.678
+\i (02:54:39) trapsize 87
+\i (02:54:39) zoom in 1 
+\i (02:54:39) setwindow pcb
+\i (02:54:39) zoom in 19.652 8.558
+\i (02:54:39) trapsize 44
+\i (02:54:43) zoom out 1 
+\i (02:54:43) setwindow pcb
+\i (02:54:43) zoom out 19.512 9.844
+\i (02:54:43) trapsize 87
+\i (02:55:07) zoom out 1 
+\i (02:55:07) setwindow pcb
+\i (02:55:07) zoom out 13.144 2.024
+\i (02:55:07) trapsize 175
+\i (02:55:07) zoom out 1 
+\i (02:55:07) setwindow pcb
+\i (02:55:07) zoom out 13.529 2.303
+\t (02:55:07) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (02:55:07) trapsize 350
+\i (02:55:08) zoom in 1 
+\i (02:55:08) setwindow pcb
+\i (02:55:08) zoom in -1.936 9.792
+\t (02:55:08) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (02:55:08) trapsize 175
+\i (02:55:08) zoom in 1 
+\i (02:55:08) setwindow pcb
+\i (02:55:08) zoom in -0.571 9.337
+\i (02:55:08) trapsize 87
+\i (02:55:08) zoom in 1 
+\i (02:55:08) setwindow pcb
+\i (02:55:08) zoom in -0.483 9.302
+\i (02:55:08) trapsize 44
+\i (02:55:09) zoom out 1 
+\i (02:55:09) setwindow pcb
+\i (02:55:09) zoom out 0.601 9.276
+\i (02:55:09) trapsize 87
+\i (02:55:09) zoom out 1 
+\i (02:55:09) setwindow pcb
+\i (02:55:09) zoom out 0.602 9.277
+\i (02:55:09) trapsize 175
+\i (02:55:09) zoom in 1 
+\i (02:55:10) setwindow pcb
+\i (02:55:10) zoom in 4.871 7.492
+\i (02:55:10) trapsize 87
+\i (02:55:10) zoom in 1 
+\i (02:55:10) setwindow pcb
+\i (02:55:10) zoom in 4.364 8.087
+\i (02:55:10) trapsize 44
+\i (02:55:11) zoom in 1 
+\i (02:55:11) setwindow pcb
+\i (02:55:11) zoom in 4.451 7.965
+\i (02:55:11) trapsize 22
+\i (02:55:11) zoom out 1 
+\i (02:55:12) setwindow pcb
+\i (02:55:12) zoom out 4.452 7.966
+\i (02:55:12) trapsize 44
+\i (02:55:12) zoom out 1 
+\i (02:55:12) setwindow pcb
+\i (02:55:12) zoom out 4.451 7.965
+\i (02:55:12) trapsize 87
+\i (02:55:13) zoom in 1 
+\i (02:55:13) setwindow pcb
+\i (02:55:13) zoom in 6.062 13.354
+\i (02:55:13) trapsize 44
+\i (02:55:18) zoom out 1 
+\i (02:55:18) setwindow pcb
+\i (02:55:18) zoom out 6.071 13.354
+\i (02:55:18) trapsize 87
+\i (02:55:18) zoom in 1 
+\i (02:55:18) setwindow pcb
+\i (02:55:18) zoom in 6.544 8.596
+\i (02:55:18) trapsize 44
+\i (02:55:19) zoom in 1 
+\i (02:55:19) setwindow pcb
+\i (02:55:19) zoom in 6.544 8.596
+\i (02:55:19) trapsize 22
+\i (02:55:20) zoom out 1 
+\i (02:55:20) setwindow pcb
+\i (02:55:20) zoom out 6.545 8.596
+\i (02:55:20) trapsize 44
+\i (02:55:22) zoom out 1 
+\i (02:55:22) setwindow pcb
+\i (02:55:22) zoom out 5.696 8.176
+\i (02:55:22) trapsize 87
+\i (02:55:25) zoom in 1 
+\i (02:55:25) setwindow pcb
+\i (02:55:25) zoom in 5.941 7.722
+\i (02:55:25) trapsize 44
+\i (02:55:26) zoom in 1 
+\i (02:55:26) setwindow pcb
+\i (02:55:26) zoom in 5.941 7.722
+\i (02:55:26) trapsize 22
+\i (02:55:28) zoom out 1 
+\i (02:55:28) setwindow pcb
+\i (02:55:28) zoom out 6.668 7.403
+\i (02:55:28) trapsize 44
+\i (02:55:29) zoom out 1 
+\i (02:55:29) setwindow pcb
+\i (02:55:29) zoom out 6.667 7.403
+\i (02:55:29) trapsize 87
+\i (02:55:30) zoom in 1 
+\i (02:55:30) setwindow pcb
+\i (02:55:30) zoom in 6.668 7.403
+\i (02:55:30) trapsize 44
+\i (02:59:29) xdehilite 
+\i (02:59:29) xNet Mosi 
+\i (02:59:29) xname_flush 
+\t (02:59:29) Net "Mosi" dehighlighted.
+\i (02:59:29) done 
+\i (02:59:29) xhilite 
+\i (02:59:30) xNet Sck 
+\i (02:59:30) xname_flush 
+\i (02:59:30) trapsize 96
+\w (02:59:30) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Sck" highlighted.
+\i (02:59:30) done 
+\i (02:59:30) etchedit 
+\i (02:59:30) xdehilite 
+\i (02:59:30) xNet Sck 
+\i (02:59:30) xname_flush 
+\t (02:59:30) Net "Sck" dehighlighted.
+\i (02:59:30) done 
+\i (02:59:30) xhilite 
+\i (02:59:30) xNet Mosi 
+\i (02:59:30) xname_flush 
+\i (02:59:30) trapsize 87
+\w (02:59:30) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Mosi" highlighted.
+\i (02:59:30) done 
+\i (02:59:30) etchedit 
+\i (02:59:49) zoom out 1 
+\i (02:59:49) setwindow pcb
+\i (02:59:49) zoom out 11.538 10.187
+\i (02:59:49) trapsize 175
+\i (02:59:50) zoom in 1 
+\i (02:59:50) setwindow pcb
+\i (02:59:50) zoom in 1.953 9.417
+\i (02:59:50) trapsize 87
+\i (02:59:51) zoom out 1 
+\i (02:59:51) setwindow pcb
+\i (02:59:51) zoom out 2.076 9.399
+\i (02:59:51) trapsize 175
+\i (02:59:52) zoom in 1 
+\i (02:59:52) setwindow pcb
+\i (02:59:52) zoom in 21.629 10.869
+\i (02:59:52) trapsize 87
+\i (02:59:52) zoom in 1 
+\i (02:59:52) setwindow pcb
+\i (02:59:52) zoom in 21.629 10.869
+\i (02:59:52) trapsize 44
+\i (02:59:52) zoom in 1 
+\i (02:59:52) setwindow pcb
+\i (02:59:52) zoom in 21.428 9.881
+\i (02:59:52) trapsize 22
+\i (02:59:54) zoom out 1 
+\i (02:59:54) setwindow pcb
+\i (02:59:54) zoom out 19.499 9.361
+\i (02:59:54) trapsize 44
+\i (02:59:54) zoom out 1 
+\i (02:59:54) setwindow pcb
+\i (02:59:54) zoom out 19.683 9.213
+\i (02:59:54) trapsize 87
+\i (02:59:55) zoom out 1 
+\i (02:59:55) setwindow pcb
+\i (02:59:55) zoom out 19.683 9.214
+\i (02:59:55) trapsize 175
+\i (02:59:55) zoom out 1 
+\i (02:59:55) setwindow pcb
+\i (02:59:55) zoom out 19.683 9.213
+\t (02:59:55) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (02:59:55) trapsize 350
+\i (02:59:56) zoom in 1 
+\i (02:59:56) setwindow pcb
+\i (02:59:56) zoom in 2.888 8.513
+\t (02:59:56) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (02:59:56) trapsize 175
+\i (03:00:09) zoom in 1 
+\i (03:00:09) setwindow pcb
+\i (03:00:09) zoom in 1.734 8.443
+\i (03:00:09) trapsize 87
+\i (03:00:09) zoom in 1 
+\i (03:00:09) setwindow pcb
+\i (03:00:09) zoom in 1.734 8.444
+\i (03:00:09) trapsize 44
+\i (03:00:11) zoom out 1 
+\i (03:00:11) setwindow pcb
+\i (03:00:11) zoom out 4.594 7.333
+\i (03:00:11) trapsize 87
+\i (03:00:11) zoom in 1 
+\i (03:00:11) setwindow pcb
+\i (03:00:11) zoom in 4.595 7.334
+\i (03:00:11) trapsize 44
+\i (03:00:12) zoom in 1 
+\i (03:00:12) setwindow pcb
+\i (03:00:12) zoom in 4.595 7.334
+\i (03:00:12) trapsize 22
+\i (03:04:10) zoom out 1 
+\i (03:04:10) setwindow pcb
+\i (03:04:10) zoom out 6.213 8.314
+\i (03:04:10) trapsize 44
+\i (03:04:11) zoom in 1 
+\i (03:04:11) setwindow pcb
+\i (03:04:11) zoom in 4.902 7.299
+\i (03:04:11) trapsize 22
+\i (03:04:12) zoom out 1 
+\i (03:04:12) setwindow pcb
+\i (03:04:12) zoom out 4.907 7.299
+\i (03:04:12) trapsize 44
+\i (03:04:15) zoom out 1 
+\i (03:04:15) setwindow pcb
+\i (03:04:15) zoom out 5.414 7.081
+\i (03:04:15) trapsize 87
+\i (03:04:16) zoom in 1 
+\i (03:04:16) setwindow pcb
+\i (03:04:16) zoom in 2.387 12.418
+\i (03:04:16) trapsize 44
+\i (03:04:16) zoom in 1 
+\i (03:04:16) setwindow pcb
+\i (03:04:16) zoom in 2.466 12.506
+\i (03:04:16) trapsize 22
+\i (03:04:17) zoom out 1 
+\i (03:04:17) setwindow pcb
+\i (03:04:17) zoom out 2.409 12.445
+\i (03:04:17) trapsize 44
+\i (03:14:26) zoom out 1 
+\i (03:14:26) setwindow pcb
+\i (03:14:26) zoom out 4.509 11.421
+\i (03:14:26) trapsize 87
+\i (03:14:26) zoom out 1 
+\i (03:14:26) setwindow pcb
+\i (03:14:26) zoom out 4.509 11.421
+\i (03:14:26) trapsize 175
+\i (03:14:27) zoom out 1 
+\i (03:14:27) setwindow pcb
+\i (03:14:27) zoom out 4.299 11.071
+\t (03:14:27) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:14:27) trapsize 350
+\i (03:14:27) zoom out 1 
+\i (03:14:27) setwindow pcb
+\i (03:14:27) zoom out 4.089 10.721
+\t (03:14:27) Grids are drawn 0.600, 0.600 apart for enhanced viewability.
+\i (03:14:27) trapsize 700
+\i (03:14:28) zoom in 1 
+\i (03:14:28) setwindow pcb
+\i (03:14:28) zoom in -21.943 8.482
+\t (03:14:28) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:14:28) trapsize 350
+\i (03:14:28) zoom in 1 
+\i (03:14:28) setwindow pcb
+\i (03:14:28) zoom in -1.159 6.593
+\t (03:14:28) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:14:28) trapsize 175
+\i (03:14:28) zoom out 1 
+\i (03:14:28) setwindow pcb
+\i (03:14:28) zoom out 0.660 6.348
+\t (03:14:28) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:14:28) trapsize 350
+\i (03:14:28) zoom out 1 
+\i (03:14:28) setwindow pcb
+\i (03:14:28) zoom out -4.098 6.349
+\t (03:14:28) Grids are drawn 0.600, 0.600 apart for enhanced viewability.
+\i (03:14:28) trapsize 700
+\i (03:14:29) zoom in 1 
+\i (03:14:29) setwindow pcb
+\i (03:14:29) zoom in 20.675 4.949
+\t (03:14:29) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:14:29) trapsize 350
+\i (03:14:29) zoom in 1 
+\i (03:14:29) setwindow pcb
+\i (03:14:29) zoom in 20.675 4.949
+\t (03:14:29) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:14:29) trapsize 175
+\i (03:14:30) zoom in 1 
+\i (03:14:30) setwindow pcb
+\i (03:14:30) zoom in 20.675 4.950
+\i (03:14:30) trapsize 87
+\i (03:14:30) zoom out 1 
+\i (03:14:30) setwindow pcb
+\i (03:14:30) zoom out 19.888 4.915
+\i (03:14:30) trapsize 175
+\i (03:14:31) zoom in 1 
+\i (03:14:31) setwindow pcb
+\i (03:14:31) zoom in 12.575 11.178
+\i (03:14:31) trapsize 87
+\i (03:14:31) zoom out 1 
+\i (03:14:31) setwindow pcb
+\i (03:14:31) zoom out 13.608 11.003
+\i (03:14:31) trapsize 175
+\i (03:14:31) zoom out 1 
+\i (03:14:31) setwindow pcb
+\i (03:14:31) zoom out 13.012 10.164
+\t (03:14:31) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:14:31) trapsize 350
+\i (03:14:33) zoom in 1 
+\i (03:14:33) setwindow pcb
+\i (03:14:33) zoom in 22.950 10.234
+\t (03:14:33) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:14:33) trapsize 175
+\i (03:14:33) zoom in 1 
+\i (03:14:33) setwindow pcb
+\i (03:14:33) zoom in 22.950 10.234
+\i (03:14:33) trapsize 87
+\i (03:14:33) zoom in 1 
+\i (03:14:33) setwindow pcb
+\i (03:14:33) zoom in 22.950 10.234
+\i (03:14:33) trapsize 44
+\i (03:14:36) zoom out 1 
+\i (03:14:36) setwindow pcb
+\i (03:14:36) zoom out 20.527 9.403
+\i (03:14:36) trapsize 87
+\i (03:14:37) zoom in 1 
+\i (03:14:37) setwindow pcb
+\i (03:14:37) zoom in 20.527 9.404
+\i (03:14:37) trapsize 44
+\i (03:14:38) zoom out 1 
+\i (03:14:38) setwindow pcb
+\i (03:14:38) zoom out 20.527 9.404
+\i (03:14:38) trapsize 87
+\i (03:14:38) zoom out 1 
+\i (03:14:38) setwindow pcb
+\i (03:14:38) zoom out 20.527 9.405
+\i (03:14:38) trapsize 175
+\i (03:14:39) zoom in 1 
+\i (03:14:39) setwindow pcb
+\i (03:14:39) zoom in 20.773 9.370
+\i (03:14:39) trapsize 87
+\i (03:14:40) zoom in 1 
+\i (03:14:40) setwindow pcb
+\i (03:14:40) zoom in 20.773 9.371
+\i (03:14:40) trapsize 44
+\i (03:14:40) zoom in 1 
+\i (03:14:40) setwindow pcb
+\i (03:14:40) zoom in 20.773 9.371
+\i (03:14:40) trapsize 22
+\i (03:14:42) zoom out 1 
+\i (03:14:42) setwindow pcb
+\i (03:14:42) zoom out 20.773 9.371
+\i (03:14:42) trapsize 44
+\i (03:14:43) zoom out 1 
+\i (03:14:43) setwindow pcb
+\i (03:14:43) zoom out 20.773 9.371
+\i (03:14:43) trapsize 87
+\i (03:14:45) zoom in 1 
+\i (03:14:45) setwindow pcb
+\i (03:14:45) zoom in 20.599 9.458
+\i (03:14:45) trapsize 44
+\i (03:14:46) zoom in 1 
+\i (03:14:46) setwindow pcb
+\i (03:14:46) zoom in 20.599 9.458
+\i (03:14:46) trapsize 22
+\i (03:14:46) zoom in 1 
+\i (03:14:46) setwindow pcb
+\i (03:14:46) zoom in 20.599 9.459
+\i (03:14:46) trapsize 11
+\i (03:14:46) zoom out 1 
+\i (03:14:46) setwindow pcb
+\i (03:14:46) zoom out 20.599 9.459
+\i (03:14:46) trapsize 22
+\i (03:14:48) zoom out 1 
+\i (03:14:48) setwindow pcb
+\i (03:14:48) zoom out 20.600 9.460
+\i (03:14:48) trapsize 44
+\i (03:14:56) zoom out 1 
+\i (03:14:56) setwindow pcb
+\i (03:14:56) zoom out 21.352 9.653
+\i (03:14:56) trapsize 87
+\i (03:14:56) zoom out 1 
+\i (03:14:56) setwindow pcb
+\i (03:14:56) zoom out 21.353 9.652
+\i (03:14:56) trapsize 175
+\i (03:14:56) zoom out 1 
+\i (03:14:56) setwindow pcb
+\i (03:14:56) zoom out 21.352 9.652
+\t (03:14:56) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:14:56) trapsize 350
+\i (03:14:57) zoom in 1 
+\i (03:14:57) setwindow pcb
+\i (03:14:57) zoom in 0.075 13.152
+\t (03:14:57) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:14:57) trapsize 175
+\i (03:14:57) zoom in 1 
+\i (03:14:57) setwindow pcb
+\i (03:14:57) zoom in 0.215 13.152
+\i (03:14:57) trapsize 87
+\i (03:14:58) zoom in 1 
+\i (03:14:58) setwindow pcb
+\i (03:14:58) zoom in 2.262 13.799
+\i (03:14:58) trapsize 44
+\i (03:14:58) zoom in 1 
+\i (03:14:58) setwindow pcb
+\i (03:14:58) zoom in 2.288 13.782
+\i (03:14:58) trapsize 22
+\i (03:15:00) zoom out 1 
+\i (03:15:00) setwindow pcb
+\i (03:15:00) zoom out 2.289 13.782
+\i (03:15:00) trapsize 44
+\i (03:16:36) zoom out 1 
+\i (03:16:36) setwindow pcb
+\i (03:16:36) zoom out 2.822 13.292
+\i (03:16:36) trapsize 87
+\i (03:16:37) zoom in 1 
+\i (03:16:37) setwindow pcb
+\i (03:16:37) zoom in 3.662 7.361
+\i (03:16:37) trapsize 44
+\i (03:16:38) zoom in 1 
+\i (03:16:38) setwindow pcb
+\i (03:16:38) zoom in 5.587 7.466
+\i (03:16:38) trapsize 22
+\i (03:16:39) zoom out 1 
+\i (03:16:39) setwindow pcb
+\i (03:16:39) zoom out 5.587 7.467
+\i (03:16:39) trapsize 44
+\i (03:16:39) zoom out 1 
+\i (03:16:39) setwindow pcb
+\i (03:16:39) zoom out 5.587 7.466
+\i (03:16:39) trapsize 87
+\i (03:16:40) zoom in 1 
+\i (03:16:40) setwindow pcb
+\i (03:16:40) zoom in 5.254 6.382
+\i (03:16:40) trapsize 44
+\i (03:16:40) zoom in 1 
+\i (03:16:40) setwindow pcb
+\i (03:16:40) zoom in 5.255 6.382
+\i (03:16:40) trapsize 22
+\i (03:16:56) zoom out 1 
+\i (03:16:56) setwindow pcb
+\i (03:16:56) zoom out 5.128 7.826
+\i (03:16:56) trapsize 44
+\i (03:16:57) zoom out 1 
+\i (03:16:57) setwindow pcb
+\i (03:16:57) zoom out 6.117 8.062
+\i (03:16:57) trapsize 87
+\i (03:16:57) zoom in 1 
+\i (03:16:57) setwindow pcb
+\i (03:16:57) zoom in 6.869 7.940
+\i (03:16:57) trapsize 44
+\i (03:16:57) zoom in 1 
+\i (03:16:57) setwindow pcb
+\i (03:16:57) zoom in 6.869 7.940
+\i (03:16:57) trapsize 22
+\i (03:16:59) zoom out 1 
+\i (03:16:59) setwindow pcb
+\i (03:16:59) zoom out 6.533 7.564
+\i (03:16:59) trapsize 44
+\i (03:21:18) zoom out 1 
+\i (03:21:18) setwindow pcb
+\i (03:21:18) zoom out 3.339 8.230
+\i (03:21:18) trapsize 87
+\i (03:21:19) zoom out 1 
+\i (03:21:19) setwindow pcb
+\i (03:21:19) zoom out 2.989 7.827
+\i (03:21:19) trapsize 175
+\i (03:21:19) zoom in 1 
+\i (03:21:19) setwindow pcb
+\i (03:21:19) zoom in 3.093 15.701
+\i (03:21:19) trapsize 87
+\i (03:21:19) zoom in 1 
+\i (03:21:19) setwindow pcb
+\i (03:21:19) zoom in 3.128 15.036
+\i (03:21:19) trapsize 44
+\i (03:21:33) zoom out 1 
+\i (03:21:33) setwindow pcb
+\i (03:21:33) zoom out 3.330 12.945
+\i (03:21:33) trapsize 87
+\i (03:21:34) zoom out 1 
+\i (03:21:34) setwindow pcb
+\i (03:21:34) zoom out 6.024 16.498
+\i (03:21:34) trapsize 175
+\i (03:21:35) zoom in 1 
+\i (03:21:35) setwindow pcb
+\i (03:21:35) zoom in 15.123 19.892
+\i (03:21:35) trapsize 87
+\i (03:21:35) zoom out 1 
+\i (03:21:35) setwindow pcb
+\i (03:21:35) zoom out 14.809 19.612
+\i (03:21:35) trapsize 175
+\i (03:21:36) zoom out 1 
+\i (03:21:36) setwindow pcb
+\i (03:21:36) zoom out 14.213 20.172
+\t (03:21:36) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:21:36) trapsize 350
+\i (03:21:37) zoom in 1 
+\i (03:21:37) setwindow pcb
+\i (03:21:37) zoom in 18.483 23.183
+\t (03:21:37) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:21:37) trapsize 175
+\i (03:21:37) zoom in 1 
+\i (03:21:37) setwindow pcb
+\i (03:21:37) zoom in 18.483 23.183
+\i (03:21:37) trapsize 87
+\i (03:22:21) zoom out 1 
+\i (03:22:21) setwindow pcb
+\i (03:22:21) zoom out 14.004 21.189
+\i (03:22:21) trapsize 175
+\i (03:22:21) zoom out 1 
+\i (03:22:21) setwindow pcb
+\i (03:22:21) zoom out 10.925 18.004
+\t (03:22:21) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:22:21) trapsize 350
+\i (03:22:22) zoom in 1 
+\i (03:22:22) setwindow pcb
+\i (03:22:22) zoom in 4.905 5.826
+\t (03:22:22) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:22:22) trapsize 175
+\i (03:22:22) zoom in 1 
+\i (03:22:22) setwindow pcb
+\i (03:22:22) zoom in 4.905 5.791
+\i (03:22:22) trapsize 87
+\i (03:22:23) zoom in 1 
+\i (03:22:23) setwindow pcb
+\i (03:22:23) zoom in 3.033 8.294
+\i (03:22:23) trapsize 44
+\i (03:22:24) zoom in 1 
+\i (03:22:24) setwindow pcb
+\i (03:22:24) zoom in 3.436 7.926
+\i (03:22:24) trapsize 22
+\i (03:22:32) zoom in 1 
+\i (03:22:32) setwindow pcb
+\i (03:22:32) zoom in 2.408 7.660
+\i (03:22:32) trapsize 11
+\i (03:22:32) zoom in 1 
+\i (03:22:32) setwindow pcb
+\i (03:22:32) zoom in 2.417 7.595
+\i (03:22:32) trapsize 5
+\i (03:22:32) zoom in 1 
+\i (03:22:32) setwindow pcb
+\i (03:22:32) zoom in 2.439 7.545
+\i (03:22:32) trapsize 3
+\i (03:22:33) zoom out 1 
+\i (03:22:33) setwindow pcb
+\i (03:22:33) zoom out 2.440 7.545
+\i (03:22:33) trapsize 5
+\i (03:22:33) zoom out 1 
+\i (03:22:33) setwindow pcb
+\i (03:22:33) zoom out 2.439 7.545
+\i (03:22:33) trapsize 11
+\i (03:22:33) zoom out 1 
+\i (03:22:33) setwindow pcb
+\i (03:22:33) zoom out 2.439 7.545
+\i (03:22:33) trapsize 22
+\i (03:22:47) zoom out 1 
+\i (03:22:47) setwindow pcb
+\i (03:22:47) zoom out 4.321 8.289
+\i (03:22:47) trapsize 44
+\i (03:22:47) zoom out 1 
+\i (03:22:47) setwindow pcb
+\i (03:22:47) zoom out 4.321 8.289
+\i (03:22:47) trapsize 87
+\i (03:22:50) zoom out 1 
+\i (03:22:50) setwindow pcb
+\i (03:22:50) zoom out 2.798 7.747
+\i (03:22:50) trapsize 175
+\i (03:32:04) zoom out 1 
+\i (03:32:04) setwindow pcb
+\i (03:32:04) zoom out 5.527 9.181
+\t (03:32:04) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:32:04) trapsize 350
+\i (03:32:05) zoom in 1 
+\i (03:32:05) setwindow pcb
+\i (03:32:05) zoom in 7.697 10.581
+\t (03:32:05) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:32:05) trapsize 175
+\i (03:32:05) zoom in 1 
+\i (03:32:05) setwindow pcb
+\i (03:32:05) zoom in 10.252 11.246
+\i (03:32:05) trapsize 87
+\i (03:32:07) zoom out 1 
+\i (03:32:07) setwindow pcb
+\i (03:32:07) zoom out 8.695 9.899
+\i (03:32:07) trapsize 175
+\i (03:32:08) zoom out 1 
+\i (03:32:08) setwindow pcb
+\i (03:32:08) zoom out 7.680 9.934
+\t (03:32:08) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:32:08) trapsize 350
+\i (03:32:09) zoom in 1 
+\i (03:32:09) setwindow pcb
+\i (03:32:09) zoom in 24.759 11.195
+\t (03:32:09) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:32:09) trapsize 175
+\i (03:32:11) zoom in 1 
+\i (03:32:11) setwindow pcb
+\i (03:32:11) zoom in 18.880 12.280
+\i (03:32:11) trapsize 87
+\i (03:32:11) zoom in 1 
+\i (03:32:11) setwindow pcb
+\i (03:32:11) zoom in 18.881 12.280
+\i (03:32:11) trapsize 44
+\i (03:32:12) zoom in 1 
+\i (03:32:12) setwindow pcb
+\i (03:32:12) zoom in 18.881 12.281
+\i (03:32:12) trapsize 22
+\i (03:32:12) zoom in 1 
+\i (03:32:12) setwindow pcb
+\i (03:32:12) zoom in 18.882 12.281
+\i (03:32:12) trapsize 11
+\i (03:32:12) zoom out 1 
+\i (03:32:12) setwindow pcb
+\i (03:32:12) zoom out 18.881 12.281
+\i (03:32:12) trapsize 22
+\i (03:32:12) zoom out 1 
+\i (03:32:12) setwindow pcb
+\i (03:32:12) zoom out 18.883 12.281
+\i (03:32:12) trapsize 44
+\i (03:32:12) zoom out 1 
+\i (03:32:12) setwindow pcb
+\i (03:32:12) zoom out 18.882 12.282
+\i (03:32:12) trapsize 87
+\i (03:32:13) zoom in 1 
+\i (03:32:13) setwindow pcb
+\i (03:32:13) zoom in 17.938 12.176
+\i (03:32:13) trapsize 44
+\i (03:32:14) zoom in 1 
+\i (03:32:14) setwindow pcb
+\i (03:32:14) zoom in 17.938 12.176
+\i (03:32:14) trapsize 22
+\i (03:32:14) zoom in 1 
+\i (03:32:14) setwindow pcb
+\i (03:32:14) zoom in 17.938 12.176
+\i (03:32:14) trapsize 11
+\i (03:32:14) zoom out 1 
+\i (03:32:14) setwindow pcb
+\i (03:32:14) zoom out 17.938 12.176
+\i (03:32:14) trapsize 22
+\i (03:32:14) zoom out 1 
+\i (03:32:14) setwindow pcb
+\i (03:32:14) zoom out 17.939 12.176
+\i (03:32:14) trapsize 44
+\i (03:32:16) zoom out 1 
+\i (03:32:16) setwindow pcb
+\i (03:32:16) zoom out 17.940 12.176
+\i (03:32:16) trapsize 87
+\i (03:32:17) zoom in 1 
+\i (03:32:17) setwindow pcb
+\i (03:32:17) zoom in 19.339 9.464
+\i (03:32:17) trapsize 44
+\i (03:32:23) zoom out 1 
+\i (03:32:23) setwindow pcb
+\i (03:32:23) zoom out 19.506 9.551
+\i (03:32:23) trapsize 87
+\i (03:33:52) zoom in 1 
+\i (03:33:52) setwindow pcb
+\i (03:33:52) zoom in 19.646 7.557
+\i (03:33:52) trapsize 44
+\i (03:33:56) zoom out 1 
+\i (03:33:56) setwindow pcb
+\i (03:33:56) zoom out 20.022 9.639
+\i (03:33:56) trapsize 87
+\i (03:33:57) zoom out 1 
+\i (03:33:57) setwindow pcb
+\i (03:33:57) zoom out 20.022 9.640
+\i (03:33:57) trapsize 175
+\i (03:33:57) zoom out 1 
+\i (03:33:57) setwindow pcb
+\i (03:33:57) zoom out 20.023 9.639
+\t (03:33:57) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:33:57) trapsize 350
+\i (03:33:58) zoom in 1 
+\i (03:33:58) setwindow pcb
+\i (03:33:58) zoom in 4.834 8.940
+\t (03:33:58) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:33:58) trapsize 175
+\i (03:33:58) zoom in 1 
+\i (03:33:58) setwindow pcb
+\i (03:33:58) zoom in 4.835 8.940
+\i (03:33:58) trapsize 87
+\i (03:33:59) zoom in 1 
+\i (03:33:59) setwindow pcb
+\i (03:33:59) zoom in 4.608 8.643
+\i (03:33:59) trapsize 44
+\i (03:34:30) zoom out 1 
+\i (03:34:30) setwindow pcb
+\i (03:34:30) zoom out 4.634 6.736
+\i (03:34:30) trapsize 87
+\i (03:34:30) zoom out 1 
+\i (03:34:30) setwindow pcb
+\i (03:34:30) zoom out 4.634 6.736
+\i (03:34:30) trapsize 175
+\i (03:34:31) zoom out 1 
+\i (03:34:31) setwindow pcb
+\i (03:34:31) zoom out 16.393 6.140
+\t (03:34:31) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:34:31) trapsize 350
+\i (03:34:32) zoom out 1 
+\i (03:34:32) setwindow pcb
+\i (03:34:32) zoom out 11.634 4.951
+\t (03:34:32) Grids are drawn 0.600, 0.600 apart for enhanced viewability.
+\i (03:34:32) trapsize 700
+\i (03:34:33) zoom in 1 
+\i (03:34:33) setwindow pcb
+\i (03:34:33) zoom in 24.233 11.268
+\t (03:34:33) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:34:33) trapsize 350
+\i (03:34:33) zoom in 1 
+\i (03:34:33) setwindow pcb
+\i (03:34:33) zoom in 22.833 9.448
+\t (03:34:33) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:34:33) trapsize 175
+\i (03:34:33) zoom in 1 
+\i (03:34:33) setwindow pcb
+\i (03:34:33) zoom in 22.833 9.448
+\i (03:34:33) trapsize 87
+\i (03:34:34) zoom in 1 
+\i (03:34:34) setwindow pcb
+\i (03:34:34) zoom in 22.361 9.326
+\i (03:34:34) trapsize 44
+\i (03:34:34) zoom out 1 
+\i (03:34:34) setwindow pcb
+\i (03:34:34) zoom out 21.460 9.335
+\i (03:34:34) trapsize 87
+\i (03:34:34) zoom in 1 
+\i (03:34:34) setwindow pcb
+\i (03:34:34) zoom in 20.340 9.510
+\i (03:34:34) trapsize 44
+\i (03:34:35) zoom in 1 
+\i (03:34:35) setwindow pcb
+\i (03:34:35) zoom in 20.401 9.484
+\i (03:34:35) trapsize 22
+\i (03:34:38) zoom in 1 
+\i (03:34:38) setwindow pcb
+\i (03:34:38) zoom in 19.605 9.428
+\i (03:34:38) trapsize 11
+\i (03:34:38) zoom in 1 
+\i (03:34:38) setwindow pcb
+\i (03:34:38) zoom in 19.605 9.428
+\i (03:34:38) trapsize 5
+\i (03:34:40) zoom out 1 
+\i (03:34:40) setwindow pcb
+\i (03:34:40) zoom out 19.605 9.429
+\i (03:34:40) trapsize 11
+\i (03:34:40) zoom out 1 
+\i (03:34:40) setwindow pcb
+\i (03:34:40) zoom out 19.605 9.428
+\i (03:34:40) trapsize 22
+\i (03:35:05) zoom out 1 
+\i (03:35:05) setwindow pcb
+\i (03:35:05) zoom out 18.910 9.451
+\i (03:35:05) trapsize 44
+\i (03:35:05) zoom out 1 
+\i (03:35:05) setwindow pcb
+\i (03:35:05) zoom out 18.911 9.450
+\i (03:35:05) trapsize 87
+\i (03:35:05) zoom out 1 
+\i (03:35:05) setwindow pcb
+\i (03:35:05) zoom out 18.911 9.451
+\i (03:35:05) trapsize 175
+\i (03:35:07) zoom out 1 
+\i (03:35:07) setwindow pcb
+\i (03:35:07) zoom out 9.216 6.930
+\t (03:35:07) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:35:07) trapsize 350
+\i (03:35:07) zoom in 1 
+\i (03:35:07) setwindow pcb
+\i (03:35:07) zoom in 2.638 7.841
+\t (03:35:07) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:35:07) trapsize 175
+\i (03:35:07) zoom in 1 
+\i (03:35:07) setwindow pcb
+\i (03:35:07) zoom in 2.638 7.841
+\i (03:35:07) trapsize 87
+\i (03:35:07) zoom in 1 
+\i (03:35:07) setwindow pcb
+\i (03:35:07) zoom in 2.638 7.841
+\i (03:35:07) trapsize 44
+\i (03:35:08) zoom in 1 
+\i (03:35:08) setwindow pcb
+\i (03:35:08) zoom in 2.638 7.841
+\i (03:35:08) trapsize 22
+\i (03:35:09) zoom out 1 
+\i (03:35:09) setwindow pcb
+\i (03:35:09) zoom out 3.601 8.235
+\i (03:35:09) trapsize 44
+\i (03:35:18) zoom out 1 
+\i (03:35:18) setwindow pcb
+\i (03:35:18) zoom out 7.065 7.361
+\i (03:35:18) trapsize 87
+\i (03:35:19) zoom in 1 
+\i (03:35:19) setwindow pcb
+\i (03:35:19) zoom in 5.911 6.013
+\i (03:35:19) trapsize 44
+\i (03:36:08) zoom out 1 
+\i (03:36:08) setwindow pcb
+\i (03:36:08) zoom out 4.406 7.981
+\i (03:36:08) trapsize 87
+\i (03:36:09) zoom out 1 
+\i (03:36:09) setwindow pcb
+\i (03:36:09) zoom out 4.406 7.982
+\i (03:36:09) trapsize 175
+\i (03:36:09) zoom out 1 
+\i (03:36:09) setwindow pcb
+\i (03:36:09) zoom out 4.406 7.982
+\t (03:36:09) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:36:09) trapsize 350
+\i (03:36:10) zoom in 1 
+\i (03:36:10) setwindow pcb
+\i (03:36:10) zoom in 22.954 11.271
+\t (03:36:10) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:36:10) trapsize 175
+\i (03:36:10) zoom in 1 
+\i (03:36:10) setwindow pcb
+\i (03:36:10) zoom in 23.339 11.202
+\i (03:36:10) trapsize 87
+\i (03:36:11) zoom in 1 
+\i (03:36:11) setwindow pcb
+\i (03:36:11) zoom in 19.350 14.894
+\i (03:36:11) trapsize 44
+\i (03:36:11) zoom in 1 
+\i (03:36:11) setwindow pcb
+\i (03:36:11) zoom in 19.350 14.894
+\i (03:36:11) trapsize 22
+\i (03:36:12) zoom out 1 
+\i (03:36:12) setwindow pcb
+\i (03:36:12) zoom out 19.521 14.741
+\i (03:36:12) trapsize 44
+\i (03:36:16) zoom out 1 
+\i (03:36:16) setwindow pcb
+\i (03:36:16) zoom out 17.875 13.227
+\i (03:36:16) trapsize 87
+\i (03:36:16) zoom in 1 
+\i (03:36:16) setwindow pcb
+\i (03:36:16) zoom in 16.931 11.636
+\i (03:36:16) trapsize 44
+\i (03:39:52) zoom out 1 
+\i (03:39:52) setwindow pcb
+\i (03:39:52) zoom out 17.543 11.269
+\i (03:39:52) trapsize 87
+\i (03:39:53) zoom out 1 
+\i (03:39:53) setwindow pcb
+\i (03:39:53) zoom out 17.561 11.444
+\i (03:39:53) trapsize 175
+\i (03:39:53) zoom out 1 
+\i (03:39:53) setwindow pcb
+\i (03:39:53) zoom out 17.562 11.443
+\t (03:39:53) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (03:39:53) trapsize 350
+\i (03:39:54) zoom in 1 
+\i (03:39:54) setwindow pcb
+\i (03:39:54) zoom in 0.483 8.784
+\t (03:39:54) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (03:39:54) trapsize 175
+\i (03:39:54) zoom in 1 
+\i (03:39:54) setwindow pcb
+\i (03:39:54) zoom in 1.744 8.294
+\i (03:39:54) trapsize 87
+\i (03:39:54) zoom in 1 
+\i (03:39:54) setwindow pcb
+\i (03:39:54) zoom in 2.864 8.032
+\i (03:39:54) trapsize 44
+\i (03:39:59) zoom out 1 
+\i (03:39:59) setwindow pcb
+\i (03:39:59) zoom out 4.247 7.525
+\i (03:39:59) trapsize 87
+\i (04:13:46) trapsize 89
+\i (05:08:12) xdehilite 
+\i (05:08:12) xNet Sck 
+\i (05:08:12) xname_flush 
+\t (05:08:12) Net "Sck" dehighlighted.
+\i (05:08:12) done 
+\i (05:08:12) xhilite 
+\i (05:08:12) xNet Mosi 
+\i (05:08:12) xname_flush 
+\i (05:08:12) trapsize 89
+\w (05:08:12) WARNING(SPMHFN-61): Disable custom colors is enabled. Net "Mosi" highlighted.
+\i (05:08:12) done 
+\i (05:08:12) etchedit 
+\i (05:08:16) zoom out 1 
+\i (05:08:16) setwindow pcb
+\i (05:08:16) zoom out 12.589 6.813
+\i (05:08:16) trapsize 177
+\i (05:08:17) zoom in 1 
+\i (05:08:17) setwindow pcb
+\i (05:08:17) zoom in 4.568 7.878
+\i (05:08:17) trapsize 89
+\i (05:08:17) zoom in 1 
+\i (05:08:17) setwindow pcb
+\i (05:08:17) zoom in 4.569 7.879
+\i (05:08:17) trapsize 44
+\i (05:08:17) zoom in 1 
+\i (05:08:17) setwindow pcb
+\i (05:08:17) zoom in 4.569 7.879
+\i (05:08:17) trapsize 22
+\i (05:08:18) zoom out 1 
+\i (05:08:18) setwindow pcb
+\i (05:08:18) zoom out 4.568 7.880
+\i (05:08:18) trapsize 44
+\i (05:08:42) zoom out 1 
+\i (05:08:42) setwindow pcb
+\i (05:08:42) zoom out 5.633 7.472
+\i (05:08:42) trapsize 89
+\i (05:08:46) zoom out 1 
+\i (05:08:46) setwindow pcb
+\i (05:08:46) zoom out 5.651 7.614
+\i (05:08:46) trapsize 178
+\i (05:08:57) zoom in 1 
+\i (05:08:57) setwindow pcb
+\i (05:08:57) zoom in 21.985 9.639
+\i (05:08:57) trapsize 89
+\i (05:08:57) zoom in 1 
+\i (05:08:57) setwindow pcb
+\i (05:08:57) zoom in 21.772 9.426
+\i (05:08:57) trapsize 44
+\i (05:09:02) zoom out 1 
+\i (05:09:02) setwindow pcb
+\i (05:09:02) zoom out 18.639 9.622
+\i (05:09:02) trapsize 89
+\i (05:09:03) zoom in 1 
+\i (05:09:03) setwindow pcb
+\i (05:09:03) zoom in 18.638 9.622
+\i (05:09:03) trapsize 44
+\i (05:09:03) zoom out 1 
+\i (05:09:03) setwindow pcb
+\i (05:09:03) zoom out 18.638 9.622
+\i (05:09:03) trapsize 89
+\i (05:09:22) trapsize 87
+\i (05:09:23) zoom in 1 
+\i (05:09:23) setwindow pcb
+\i (05:09:23) zoom in 19.756 9.496
+\i (05:09:23) trapsize 44
+\i (05:09:23) zoom in 1 
+\i (05:09:23) setwindow pcb
+\i (05:09:23) zoom in 19.984 9.278
+\i (05:09:23) trapsize 22
+\i (05:09:24) zoom out 1 
+\i (05:09:24) setwindow pcb
+\i (05:09:24) zoom out 20.041 9.252
+\i (05:09:24) trapsize 44
+\i (05:09:30) zoom out 1 
+\i (05:09:30) setwindow pcb
+\i (05:09:30) zoom out 20.514 8.062
+\i (05:09:30) trapsize 87
+\i (05:09:31) zoom out 1 
+\i (05:09:31) setwindow pcb
+\i (05:09:31) zoom out 20.233 8.010
+\i (05:09:31) trapsize 175
+\i (05:09:33) zoom in 1 
+\i (05:09:33) setwindow pcb
+\i (05:09:33) zoom in 19.673 7.345
+\i (05:09:33) trapsize 87
+\i (05:09:38) zoom out 1 
+\i (05:09:38) setwindow pcb
+\i (05:09:38) zoom out 15.964 7.346
+\i (05:09:38) trapsize 175
+\i (05:09:39) zoom in 1 
+\i (05:09:39) setwindow pcb
+\i (05:09:39) zoom in 4.030 7.520
+\i (05:09:39) trapsize 87
+\i (05:09:39) zoom in 1 
+\i (05:09:39) setwindow pcb
+\i (05:09:39) zoom in 4.205 7.450
+\i (05:09:39) trapsize 44
+\i (05:09:39) zoom in 1 
+\i (05:09:39) setwindow pcb
+\i (05:09:39) zoom in 4.205 7.451
+\i (05:09:39) trapsize 22
+\i (05:10:11) zoom out 1 
+\i (05:10:11) setwindow pcb
+\i (05:10:11) zoom out 6.020 8.252
+\i (05:10:11) trapsize 44
+\i (05:10:12) zoom out 1 
+\i (05:10:12) setwindow pcb
+\i (05:10:12) zoom out 6.021 8.252
+\i (05:10:12) trapsize 87
+\i (05:10:16) zoom in 1 
+\i (05:10:16) setwindow pcb
+\i (05:10:16) zoom in 5.986 8.006
+\i (05:10:16) trapsize 44
+\i (05:10:16) zoom in 1 
+\i (05:10:16) setwindow pcb
+\i (05:10:16) zoom in 5.986 8.006
+\i (05:10:16) trapsize 22
+\i (05:10:16) zoom in 1 
+\i (05:10:17) setwindow pcb
+\i (05:10:17) zoom in 5.987 8.007
+\i (05:10:17) trapsize 11
+\i (05:10:17) zoom out 1 
+\i (05:10:17) setwindow pcb
+\i (05:10:17) zoom out 5.976 8.004
+\i (05:10:17) trapsize 22
+\i (05:10:18) zoom out 1 
+\i (05:10:18) setwindow pcb
+\i (05:10:18) zoom out 5.933 8.001
+\i (05:10:18) trapsize 44
+\i (05:10:19) zoom out 1 
+\i (05:10:19) setwindow pcb
+\i (05:10:19) zoom out 5.933 8.001
+\i (05:10:19) trapsize 87
+\i (05:10:22) zoom out 1 
+\i (05:10:22) setwindow pcb
+\i (05:10:22) zoom out 11.707 6.705
+\i (05:10:22) trapsize 175
+\i (05:10:35) zoom in 1 
+\i (05:10:35) setwindow pcb
+\i (05:10:35) zoom in 4.184 8.211
+\i (05:10:35) trapsize 87
+\i (05:10:35) zoom in 1 
+\i (05:10:35) setwindow pcb
+\i (05:10:35) zoom in 4.447 7.756
+\i (05:10:35) trapsize 44
+\i (05:10:35) zoom in 1 
+\i (05:10:35) setwindow pcb
+\i (05:10:35) zoom in 4.631 7.598
+\i (05:10:35) trapsize 22
+\i (05:10:36) zoom out 1 
+\i (05:10:36) setwindow pcb
+\i (05:10:36) zoom out 4.789 7.559
+\i (05:10:36) trapsize 44
+\i (05:10:39) zoom out 1 
+\i (05:10:39) setwindow pcb
+\i (05:10:39) zoom out 4.982 8.391
+\i (05:10:39) trapsize 87
+\i (05:10:39) zoom out 1 
+\i (05:10:39) setwindow pcb
+\i (05:10:39) zoom out 4.981 8.391
+\i (05:10:39) trapsize 175
+\i (05:10:40) zoom out 1 
+\i (05:10:40) setwindow pcb
+\i (05:10:40) zoom out 4.316 7.971
+\t (05:10:40) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (05:10:40) trapsize 350
+\i (05:10:41) zoom in 1 
+\i (05:10:41) setwindow pcb
+\i (05:10:41) zoom in 17.825 8.180
+\t (05:10:41) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (05:10:41) trapsize 175
+\i (05:10:42) zoom in 1 
+\i (05:10:42) setwindow pcb
+\i (05:10:42) zoom in 19.820 8.671
+\i (05:10:42) trapsize 87
+\i (05:10:42) zoom out 1 
+\i (05:10:42) setwindow pcb
+\i (05:10:42) zoom out 19.120 8.374
+\i (05:10:42) trapsize 175
+\i (05:10:42) zoom out 1 
+\i (05:10:42) setwindow pcb
+\i (05:10:42) zoom out 18.560 8.234
+\t (05:10:42) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (05:10:42) trapsize 350
+\i (05:10:43) zoom in 1 
+\i (05:10:43) setwindow pcb
+\i (05:10:43) zoom in 22.690 8.653
+\t (05:10:43) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (05:10:43) trapsize 175
+\i (05:10:43) zoom in 1 
+\i (05:10:43) setwindow pcb
+\i (05:10:43) zoom in 21.815 8.829
+\i (05:10:43) trapsize 87
+\i (05:10:44) zoom in 1 
+\i (05:10:44) setwindow pcb
+\i (05:10:44) zoom in 21.815 8.829
+\i (05:10:44) trapsize 44
+\i (05:10:44) zoom in 1 
+\i (05:10:44) setwindow pcb
+\i (05:10:44) zoom in 21.815 8.829
+\i (05:10:44) trapsize 22
+\i (05:10:46) zoom out 1 
+\i (05:10:46) setwindow pcb
+\i (05:10:46) zoom out 20.569 9.468
+\i (05:10:46) trapsize 44
+\i (05:10:48) zoom in 1 
+\i (05:10:48) setwindow pcb
+\i (05:10:48) zoom in 20.569 9.468
+\i (05:10:48) trapsize 22
+\i (05:10:50) zoom out 1 
+\i (05:10:50) setwindow pcb
+\i (05:10:50) zoom out 20.569 9.468
+\i (05:10:50) trapsize 44
+\i (05:10:50) zoom out 1 
+\i (05:10:50) setwindow pcb
+\i (05:10:50) zoom out 20.569 9.468
+\i (05:10:50) trapsize 87
+\i (05:10:50) zoom out 1 
+\i (05:10:50) setwindow pcb
+\i (05:10:50) zoom out 20.568 9.467
+\i (05:10:50) trapsize 175
+\i (05:10:51) zoom in 1 
+\i (05:10:51) setwindow pcb
+\i (05:10:51) zoom in 4.715 8.207
+\i (05:10:51) trapsize 87
+\i (05:10:52) zoom in 1 
+\i (05:10:52) setwindow pcb
+\i (05:10:52) zoom in 4.716 8.207
+\i (05:10:52) trapsize 44
+\i (05:10:55) zoom out 1 
+\i (05:10:55) setwindow pcb
+\i (05:10:55) zoom out 5.714 8.041
+\i (05:10:55) trapsize 87
+\i (05:10:56) zoom out 1 
+\i (05:10:56) setwindow pcb
+\i (05:10:56) zoom out 5.923 8.007
+\i (05:10:56) trapsize 175
+\i (05:10:57) zoom out 1 
+\i (05:10:57) setwindow pcb
+\i (05:10:57) zoom out 5.924 8.006
+\t (05:10:57) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (05:10:57) trapsize 350
+\i (05:10:57) zoom in 1 
+\i (05:10:57) setwindow pcb
+\i (05:10:57) zoom in 29.511 1.357
+\t (05:10:57) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (05:10:57) trapsize 175
+\i (05:10:58) zoom in 1 
+\i (05:10:58) setwindow pcb
+\i (05:10:58) zoom in 19.643 10.142
+\i (05:10:58) trapsize 87
+\i (05:10:58) zoom in 1 
+\i (05:10:58) setwindow pcb
+\i (05:10:58) zoom in 19.643 10.142
+\i (05:10:58) trapsize 44
+\i (05:10:59) zoom in 1 
+\i (05:10:59) setwindow pcb
+\i (05:10:59) zoom in 19.765 10.099
+\i (05:10:59) trapsize 22
+\i (05:11:14) zoom out 1 
+\i (05:11:14) setwindow pcb
+\i (05:11:14) zoom out 20.745 9.172
+\i (05:11:14) trapsize 44
+\i (05:11:18) zoom out 1 
+\i (05:11:18) setwindow pcb
+\i (05:11:18) zoom out 19.582 9.294
+\i (05:11:18) trapsize 87
+\i (05:11:18) zoom out 1 
+\i (05:11:18) setwindow pcb
+\i (05:11:18) zoom out 19.616 9.311
+\i (05:11:18) trapsize 175
+\i (05:11:18) zoom out 1 
+\i (05:11:18) setwindow pcb
+\i (05:11:18) zoom out 20.071 9.450
+\t (05:11:18) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (05:11:18) trapsize 350
+\i (05:11:20) zoom in 1 
+\i (05:11:20) setwindow pcb
+\i (05:11:20) zoom in 20.071 9.451
+\t (05:11:20) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (05:11:20) trapsize 175
+\i (05:11:25) zoom out 1 
+\i (05:11:25) setwindow pcb
+\i (05:11:25) zoom out 20.071 9.451
+\t (05:11:25) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (05:11:25) trapsize 350
+\i (05:11:25) zoom in 1 
+\i (05:11:25) setwindow pcb
+\i (05:11:25) zoom in 3.973 9.452
+\t (05:11:25) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (05:11:25) trapsize 175
+\i (05:11:26) zoom in 1 
+\i (05:11:26) setwindow pcb
+\i (05:11:26) zoom in 3.973 9.452
+\i (05:11:26) trapsize 87
+\i (05:11:26) zoom in 1 
+\i (05:11:26) setwindow pcb
+\i (05:11:26) zoom in 3.973 9.453
+\i (05:11:26) trapsize 44
+\i (05:11:28) zoom out 1 
+\i (05:11:28) setwindow pcb
+\i (05:11:28) zoom out 6.327 9.383
+\i (05:11:28) trapsize 87
+\i (05:11:55) zoom in 1 
+\i (05:11:55) setwindow pcb
+\i (05:11:55) zoom in 6.065 7.144
+\i (05:11:55) trapsize 44
+\i (05:11:56) zoom in 1 
+\i (05:11:56) setwindow pcb
+\i (05:11:56) zoom in 6.047 7.144
+\i (05:11:56) trapsize 22
+\i (05:11:57) zoom out 1 
+\i (05:11:57) setwindow pcb
+\i (05:11:57) zoom out 5.894 7.915
+\i (05:11:57) trapsize 44
+\i (05:12:05) zoom out 1 
+\i (05:12:05) setwindow pcb
+\i (05:12:05) zoom out 5.982 7.949
+\i (05:12:05) trapsize 87
+\i (05:12:06) zoom in 1 
+\i (05:12:06) setwindow pcb
+\i (05:12:06) zoom in 4.109 7.635
+\i (05:12:06) trapsize 44
+\i (05:12:06) zoom in 1 
+\i (05:12:06) setwindow pcb
+\i (05:12:06) zoom in 4.109 7.635
+\i (05:12:06) trapsize 22
+\i (05:12:07) zoom in 1 
+\i (05:12:07) setwindow pcb
+\i (05:12:07) zoom in 4.110 7.635
+\i (05:12:07) trapsize 11
+\i (05:12:07) zoom out 1 
+\i (05:12:07) setwindow pcb
+\i (05:12:07) zoom out 4.110 7.635
+\i (05:12:07) trapsize 22
+\i (05:14:19) zoom out 1 
+\i (05:14:19) setwindow pcb
+\i (05:14:19) zoom out 4.894 7.089
+\i (05:14:19) trapsize 44
+\i (05:14:19) zoom out 1 
+\i (05:14:19) setwindow pcb
+\i (05:14:19) zoom out 4.893 7.088
+\i (05:14:19) trapsize 87
+\i (05:14:19) zoom out 1 
+\i (05:14:19) setwindow pcb
+\i (05:14:19) zoom out 4.719 6.738
+\i (05:14:19) trapsize 175
+\i (05:14:20) zoom in 1 
+\i (05:14:20) setwindow pcb
+\i (05:14:20) zoom in 1.289 11.778
+\i (05:14:20) trapsize 87
+\i (05:14:20) zoom in 1 
+\i (05:14:20) setwindow pcb
+\i (05:14:20) zoom in 1.289 11.778
+\i (05:14:20) trapsize 44
+\i (05:14:20) zoom in 1 
+\i (05:14:20) setwindow pcb
+\i (05:14:20) zoom in 1.290 11.778
+\i (05:14:20) trapsize 22
+\i (05:14:21) zoom out 1 
+\i (05:14:21) setwindow pcb
+\i (05:14:21) zoom out 1.290 11.778
+\i (05:14:21) trapsize 44
+\i (05:14:22) zoom in 1 
+\i (05:14:22) setwindow pcb
+\i (05:14:22) zoom in 1.238 12.819
+\i (05:14:22) trapsize 22
+\i (05:14:23) zoom out 1 
+\i (05:14:23) setwindow pcb
+\i (05:14:23) zoom out 1.238 12.815
+\i (05:14:23) trapsize 44
+\i (05:14:27) zoom out 1 
+\i (05:14:27) setwindow pcb
+\i (05:14:27) zoom out 1.238 12.815
+\i (05:14:27) trapsize 87
+\i (05:14:29) zoom in 1 
+\i (05:14:29) setwindow pcb
+\i (05:14:29) zoom in 0.906 8.896
+\i (05:14:29) trapsize 44
+\i (05:14:31) zoom out 1 
+\i (05:14:31) setwindow pcb
+\i (05:14:31) zoom out 0.906 8.897
+\i (05:14:31) trapsize 87
+\i (05:14:35) zoom in 1 
+\i (05:14:35) setwindow pcb
+\i (05:14:35) zoom in 6.645 5.082
+\i (05:14:35) trapsize 44
+\i (05:14:35) zoom in 1 
+\i (05:14:35) setwindow pcb
+\i (05:14:35) zoom in 6.646 5.082
+\i (05:14:35) trapsize 22
+\i (05:14:36) zoom out 1 
+\i (05:14:36) setwindow pcb
+\i (05:14:36) zoom out 6.646 5.083
+\i (05:14:36) trapsize 44
+\i (05:14:36) zoom out 1 
+\i (05:14:36) setwindow pcb
+\i (05:14:36) zoom out 6.646 5.082
+\i (05:14:36) trapsize 87
+\i (05:14:37) zoom in 1 
+\i (05:14:38) setwindow pcb
+\i (05:14:38) zoom in 1.816 12.134
+\i (05:14:38) trapsize 44
+\i (05:36:27) zoom out 1 
+\i (05:36:27) setwindow pcb
+\i (05:36:27) zoom out 3.758 9.588
+\i (05:36:27) trapsize 87
+\i (05:36:28) zoom in 1 
+\i (05:36:28) setwindow pcb
+\i (05:36:28) zoom in 7.030 7.944
+\i (05:36:28) trapsize 44
+\i (05:36:29) zoom out 1 
+\i (05:36:29) setwindow pcb
+\i (05:36:29) zoom out 7.030 7.944
+\i (05:36:29) trapsize 87
+\i (05:36:29) zoom out 1 
+\i (05:36:29) setwindow pcb
+\i (05:36:29) zoom out 7.030 7.944
+\i (05:36:29) trapsize 175
+\i (05:36:30) zoom in 1 
+\i (05:36:30) setwindow pcb
+\i (05:36:30) zoom in 7.940 6.404
+\i (05:36:30) trapsize 87
+\i (05:36:30) zoom in 1 
+\i (05:36:30) setwindow pcb
+\i (05:36:30) zoom in 7.940 6.404
+\i (05:36:30) trapsize 44
+\i (05:44:42) zoom out 1 
+\i (05:44:42) setwindow pcb
+\i (05:44:42) zoom out 4.555 9.256
+\i (05:44:42) trapsize 87
+\i (05:44:42) zoom out 1 
+\i (05:44:42) setwindow pcb
+\i (05:44:42) zoom out 4.520 8.731
+\i (05:44:42) trapsize 175
+\i (05:44:42) zoom out 1 
+\i (05:44:42) setwindow pcb
+\i (05:44:42) zoom out 4.309 7.857
+\t (05:44:42) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (05:44:42) trapsize 350
+\i (05:44:43) zoom in 1 
+\i (05:44:43) setwindow pcb
+\i (05:44:43) zoom in 16.278 26.334
+\t (05:44:43) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (05:44:43) trapsize 175
+\i (05:44:43) zoom in 1 
+\i (05:44:43) setwindow pcb
+\i (05:44:43) zoom in 17.818 24.305
+\i (05:44:43) trapsize 87
+\i (05:44:44) zoom in 1 
+\i (05:44:44) setwindow pcb
+\i (05:44:44) zoom in 18.291 22.713
+\i (05:44:44) trapsize 44
+\i (05:44:44) zoom out 1 
+\i (05:44:44) setwindow pcb
+\i (05:44:44) zoom out 15.526 21.689
+\i (05:44:44) trapsize 87
+\i (05:44:45) zoom out 1 
+\i (05:44:45) setwindow pcb
+\i (05:44:45) zoom out 15.982 21.917
+\i (05:44:45) trapsize 175
+\i (05:44:45) zoom out 1 
+\i (05:44:45) setwindow pcb
+\i (05:44:45) zoom out 15.981 21.918
+\t (05:44:45) Grids are drawn 0.300, 0.300 apart for enhanced viewability.
+\i (05:44:45) trapsize 350
+\i (05:44:56) zoom in 1 
+\i (05:44:56) setwindow pcb
+\i (05:44:56) zoom in 4.503 10.789
+\t (05:44:56) Grids are drawn 0.150, 0.150 apart for enhanced viewability.
+\i (05:44:56) trapsize 175
+\i (05:44:56) zoom in 1 
+\i (05:44:57) setwindow pcb
+\i (05:44:57) zoom in 4.503 10.789
+\i (05:44:57) trapsize 87
+\i (05:44:57) zoom in 1 
+\i (05:44:57) setwindow pcb
+\i (05:44:57) zoom in 4.503 10.789
+\i (05:44:57) trapsize 44
+\i (05:44:57) zoom out 1 
+\i (05:44:57) setwindow pcb
+\i (05:44:57) zoom out 4.503 10.789
+\i (05:44:57) trapsize 87
+\i (05:45:00) zoom out 1 
+\i (05:45:00) setwindow pcb
+\i (05:45:00) zoom out 4.503 10.789
+\i (05:45:00) trapsize 175
+\i (05:45:00) zoom in 1 
+\i (05:45:00) setwindow pcb
+\i (05:45:00) zoom in 4.503 10.789
+\i (05:45:00) trapsize 87
+\i (05:47:24) trapsize 89
+\i (05:47:25) trapsize 87
+\i (05:47:30) exit 
+\e (05:47:30) Do you want to save the changes you made to MODULE_RADIO_868M.brd?
+\i (05:47:34) fillin yes 
+\t (05:47:34)     Journal end - Fri Apr 07 16:06:03 2017

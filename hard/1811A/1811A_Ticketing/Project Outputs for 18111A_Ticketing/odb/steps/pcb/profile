@@ -1,0 +1,11 @@
+#
+#Layer features
+#
+S P 0
+OB 1.785 2 I
+OS 1.785 5.35
+OS 6.71 5.35
+OS 6.71 2
+OS 1.785 2
+OE
+SE

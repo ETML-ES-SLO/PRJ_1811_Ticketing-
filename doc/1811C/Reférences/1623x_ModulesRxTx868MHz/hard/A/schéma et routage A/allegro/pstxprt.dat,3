@@ -1,0 +1,360 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Feb-17-2017 at 11:11:18 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MODULE_RADIO_868M';
+ POST_TIME='Aug  3 2015 18:16:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C26 'C_RC0603N-M_10NF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22036@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22036@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22036@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'C_RC0603N-M_22PF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22100@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22100@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22100@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'C_RC0603N-M_22PF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22124@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22124@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22124@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'C_RC0603N-M_5.6PF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22236@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22236@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22236@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'C_RC0603N-M_5.6PF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22252@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22252@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22252@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'C_RC0603N-M_22PF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22268@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22268@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22268@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'C_RC0603N-M_33PF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22284@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22284@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22284@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'C_RC0603N-M_4.7PF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22300@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22300@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22300@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'C_RC0603N-M_3.3NF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS47400@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins47400@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins47400@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'C_RC0603N-M_33PF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22608@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22608@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22608@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'C_RC0603N-M_4.7NF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22624@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22624@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22624@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'C_RC0603N-M_33PF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22640@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22640@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22640@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'C_RC0603N-M_100NF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS31819@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins31819@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins31819@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'C_RC0603N-M_100NF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS31839@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins31839@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins31839@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'C_RC0603N-M_100N':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS31855@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins31855@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins31855@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'C_RC0603N-M_1UF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS31923@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins31923@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins31923@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'C_RC0603N-M_1UF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS32149@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins32149@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins32149@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'C_RC0603N-M_100NF':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS32683@CONDENSATEURS.C.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins32683@condensateurs.\c.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins32683@condensateurs.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'BERG 11P_0_BARETT10_XBEEL':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS32525@MODULE_RADIO_868M.BERG 11P_0.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins32525@module_radio_868m.\berg 11p_0.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins32525@module_radio_868m.\berg 11p_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'BERG 11P_0_BARETT10_XBEER':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS32557@MODULE_RADIO_868M.BERG 11P_0.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins32557@module_radio_868m.\berg 11p_0.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins32557@module_radio_868m.\berg 11p_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'HEADER 31_0_CON9_1X31_DZL_DF9_H':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS32589@MODULE_RADIO_868M.HEADER 31_0.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins32589@module_radio_868m.\header 31_0.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins32589@module_radio_868m.\header 31_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'CON6_PROGTAGCONNECT_CON6':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS31639@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins31639@connector.\con6.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins31639@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_RC0603N-M_12NH':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22188@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22188@discrete.\inductor.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22188@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR_RC0603N-M_10NH':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22204@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22204@discrete.\inductor.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22204@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'INDUCTOR_RC0603N-M_12NH':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22220@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22220@discrete.\inductor.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22220@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'QZS10MEG_445C33A16M_445C33A16M':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22056@CRYSTAL.QZS10MEG.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22056@crystal.\qzs10meg.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22056@crystal.\qzs10meg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RC0603N-M_470':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS31243@LIBRAIRIE_SK32.R.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins31243@librairie_sk32.\r.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins31243@librairie_sk32.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RC0603N-M_2K':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS32241@LIBRAIRIE_SK32.R.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins32241@librairie_sk32.\r.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins32241@librairie_sk32.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RC0603N-M_2K':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS32261@LIBRAIRIE_SK32.R.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins32261@librairie_sk32.\r.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins32261@librairie_sk32.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_RC0603N-M_10K':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS32663@LIBRAIRIE_SK32.R.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins32663@librairie_sk32.\r.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins32663@librairie_sk32.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RC0603N-M_22K':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22072@LIBRAIRIE_SK32.R.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22072@librairie_sk32.\r.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22072@librairie_sk32.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RC0603N-M_1M':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS22656@LIBRAIRIE_SK32.R.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins22656@librairie_sk32.\r.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins22656@librairie_sk32.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'NRF905_4_RTM32_2P45X2P45_NRF905':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS21946@MODULE_RADIO_868M.NRF905_4.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins21946@module_radio_868m.\nrf905_4.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins21946@module_radio_868m.\nrf905_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 '24AA02UID_SOT23-5L_24AA02UID':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS32083@MA_LIBRAIRIE.24AA02UID.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins32083@ma_librairie.\24aa02uid.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins32083@ma_librairie.\24aa02uid.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'PIC32MX13028_0_QFN28_6X6MC_PIC3':;
+
+SECTION_NUMBER 1
+ '@MODULE_RADIO_868M.SCHEMATIC1(SCH_1):INS35413@MODULE_RADIO_868M.PIC32MX13028_0.NORMAL(CHIPS)':
+ C_PATH='@module_radio_868m.schematic1(sch_1):ins35413@module_radio_868m.\pic32mx13028_0.normal\(chips)',
+ P_PATH='@module_radio_868m.schematic1(sch_1):page_ins35413@module_radio_868m.\pic32mx13028_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

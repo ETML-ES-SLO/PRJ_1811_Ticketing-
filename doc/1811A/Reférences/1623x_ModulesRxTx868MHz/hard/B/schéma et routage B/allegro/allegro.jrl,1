@@ -1,0 +1,42 @@
+\t (00:00:06) allegro 17.2 S021 Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Wed Sep 12 10:19:49 2018
+\t (00:00:06)         Host=ES-SLO2-M702 User=martinsfda Pid=7732 CPUs=8
+\t (00:00:06) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe H:\H\TRAVAIL_DIPLOME\doc\Reférences\1623x_ModulesRxTx868MHz\hard\B\schéma et routage B\allegro\MODULE_RADIO_868M - Copie.brd
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:11) fillin no 
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 1413
+\i (00:00:11) trapsize 1483
+\i (00:00:11) trapsize 1483
+\i (00:00:11) trapsize 1022
+\i (00:00:11) trapsize 1483
+\i (00:00:11) trapsize 1022
+\i (00:00:11) generaledit 
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 10796.5 1602.7
+\i (00:00:12) trapsize 1022
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 10796.5 1602.7
+\i (00:00:12) trapsize 1022
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 10796.5 1602.7
+\i (00:00:12) trapsize 1022
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 10796.5 1602.7
+\i (00:00:12) trapsize 1022
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 10755.6 1643.6
+\i (00:00:12) trapsize 511
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 10755.6 8639.2
+\i (00:00:12) trapsize 256
+\i (00:00:13) exit 
+\t (00:00:13)     Journal end - Wed Sep 12 10:19:56 2018

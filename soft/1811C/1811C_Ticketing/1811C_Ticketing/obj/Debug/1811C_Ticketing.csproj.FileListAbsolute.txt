@@ -1,0 +1,11 @@
+C:\Users\mardossantos\Desktop\1811C_Ticketing\1811C_Ticketing\bin\Debug\1811C_Ticketing.exe.config
+C:\Users\mardossantos\Desktop\1811C_Ticketing\1811C_Ticketing\bin\Debug\1811C_Ticketing.exe
+C:\Users\mardossantos\Desktop\1811C_Ticketing\1811C_Ticketing\bin\Debug\1811C_Ticketing.pdb
+C:\Users\mardossantos\Desktop\1811C_Ticketing\1811C_Ticketing\obj\Debug\1811C_Ticketing.csprojAssemblyReference.cache
+C:\Users\mardossantos\Desktop\1811C_Ticketing\1811C_Ticketing\obj\Debug\_1811C_Ticketing.Form1.resources
+C:\Users\mardossantos\Desktop\1811C_Ticketing\1811C_Ticketing\obj\Debug\_1811C_Ticketing.Properties.Resources.resources
+C:\Users\mardossantos\Desktop\1811C_Ticketing\1811C_Ticketing\obj\Debug\1811C_Ticketing.csproj.GenerateResource.cache
+C:\Users\mardossantos\Desktop\1811C_Ticketing\1811C_Ticketing\obj\Debug\1811C_Ticketing.csproj.CoreCompileInputs.cache
+C:\Users\mardossantos\Desktop\1811C_Ticketing\1811C_Ticketing\obj\Debug\1811C_Ticketing.exe
+C:\Users\mardossantos\Desktop\1811C_Ticketing\1811C_Ticketing\obj\Debug\1811C_Ticketing.pdb
+C:\Users\mardossantos\Desktop\1811C_Ticketing\1811C_Ticketing\obj\Debug\_1811C_Ticketing.Form2.resources

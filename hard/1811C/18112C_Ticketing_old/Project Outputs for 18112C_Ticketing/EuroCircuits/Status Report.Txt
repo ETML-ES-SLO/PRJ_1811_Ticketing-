@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB_Ticketing_Slave.PcbDoc]
+   Generated File[PCB_Ticketing_Slave-RoundHoles.TXT]
+   Generated File[PCB_Ticketing_Slave-SlotHoles.TXT]
+   Generated File[PCB_Ticketing_Slave.LDP]
+   Generated File[PCB_Ticketing_Slave.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:11:59 On 29.08.2022
