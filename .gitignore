@@ -1,0 +1,8 @@
+# Dossiers à ne pas prendre en compte lors d'un dépot GitHub 
+# -> hard pour la partie hardware -> car altium 365 utilise aussi un git 
+hard/ 
+
+# Fichier à ne pas prendre en compte 
+Reférences.rar
+
+
