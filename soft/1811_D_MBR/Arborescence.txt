@@ -1,0 +1,2 @@
+C:\microchip\harmony\v2_06\apps\PROJ\1811_Ticketing\18111D_Master
+C:\microchip\harmony\v2_06\apps\PROJ\1811_Ticketing\18112D_Slave
